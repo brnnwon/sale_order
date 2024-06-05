@@ -1,0 +1,109 @@
+﻿product_id,name,category,subcategory,product_category_id,purchase_price,sale_price_full,sale_price_discounted
+87,Aquarium Accessory,Pets,Aquarium,38,4,40.99,32.99
+54,Aquarium Apparatus,Pets,Aquarium,38,16,156.95,109
+40,Aquarium Machine,Pets,Aquarium,38,7,69.99,48
+9,Aquarium Mechanism,Pets,Aquarium,38,16,158.95,126
+30,Baby Doodad,Clothing,Baby,15,1,14,11.95
+14,Baby Thingamajig,Clothing,Baby,15,2,15,10
+34,Bath Device,Beauty,Bath,12,9,90.95,54.95
+99,Beach Apparatus,Activity,Beach,1,5,51.99,35.95
+52,Beach Instrument,Activity,Beach,1,14,143.99,85
+7,Beach Widget,Activity,Beach,1,8,79.99,55.99
+86,Biking Device,Activity,Biking,2,9,88.99,79
+61,Biking Machine,Activity,Biking,2,10,104,93.95
+84,Biking Mechanism,Activity,Biking,2,8,82.95,57.95
+55,Biking Paraphernalia,Activity,Biking,2,2,16,12.99
+13,Book Component,Entertainment,Book,22,12,123.95,86.99
+95,Book Tool,Entertainment,Book,22,7,73.95,58.95
+70,Camera Component,Electronics,Camera,19,8,76,60.95
+91,Camping Attachment,Activity,Camping,3,12,118.99,94.99
+29,Camping Gizmo,Activity,Camping,3,12,122.95,85
+78,Camping Implement,Activity,Camping,3,17,171.99,102.99
+12,Car Component,Automotive,Car,8,17,171.99,136.95
+89,Car Device,Automotive,Car,8,18,180,108
+74,Computer Component,Electronics,Computer,20,18,182.95,127.99
+17,Cooking Equipment,Home,Cooking,33,18,182,145
+82,Cooking Instrument,Home,Cooking,33,9,90.95,62.99
+53,Cooking Whatchamacallit,Home,Cooking,33,5,51.95,45
+97,Dog Item,Pets,Dog,39,15,151,120
+21,Engine Gadget,Automotive,Engine,9,19,191.95,133.95
+37,Engine Thingamajig,Automotive,Engine,9,17,167.95,150
+83,First Aid Contraption,Health,First Aid,28,2,17,11
+77,First Aid Thingamajig,Health,First Aid,28,1,11,9
+81,Fitness Attachment,Activity,Fitness,4,9,94.99,56.99
+4,Fitness Gadget,Activity,Fitness,4,7,73.95,65.99
+101,Free Gift Set 1,Health,Hair Care,29,0,0,0
+102,Free Gift Set 2,Health,Hair Care,29,0,0,0
+103,Free Gift Set 3,Health,Vitamin,32,0,0,0
+104,Free Gift Set 4,Health,Vitamin,32,0,0,0
+105,Free Gift Set 5,Health,Vitamin,32,0,0,0
+51,Furniture Tool,Home,Furniture,34,9,86.95,77.99
+26,Furniture Whatchamacallit,Home,Furniture,34,12,120,96.95
+11,Game Apparatus,Entertainment,Game,23,7,69.99,55.99
+19,Game Gear,Entertainment,Game,23,2,18,16
+96,Game Gizmo,Entertainment,Game,23,16,159.95,143.95
+90,Game Paraphernalia,Entertainment,Game,23,4,39.99,23
+88,Hair Care Component,Beauty,Hair Care,13,5,53,42.95
+41,Hair Care Contraption,Beauty,Hair Care,13,4,41.99,24.99
+57,Home Improvement Device,Home,Home Improvement,35,14,140.95,84.99
+10,Home Improvement Paraphernalia,Home,Home Improvement,35,20,198,118
+45,Home Improvement Paraphernalia,Home,Home Improvement,35,3,33.99,23
+64,Home Improvement Tool,Home,Home Improvement,35,11,114,102
+68,Kids Instrument,Clothing,Kids,16,3,32,22.99
+98,Kids Item,Clothing,Kids,16,18,179.99,161.95
+1,Kids Thingamajig,Clothing,Kids,16,74.99,74.99,51.95
+69,Kitchen Device,Home,Kitchen,36,3,29.95,23.95
+23,Kitchen Widget,Home,Kitchen,36,14,140.95,84.95
+32,Medicine Gear,Health,Medicine,30,9,86,60.95
+100,Medicine Widget,Health,Medicine,30,7,73.95,65.95
+2,Mens Item,Clothing,Mens,17,70.4,160,96.99
+38,Mens Rig,Clothing,Mens,17,3,34.95,23.99
+8,Movie Whatchamacallit,Entertainment,Movie,24,14,141,126.95
+75,Music Attachment,Entertainment,Music,25,5,48,43.95
+42,Music Supplies,Entertainment,Music,25,9,93.95,83
+63,Nutrition Attachment,Health,Nutrition,31,2,24.99,21.95
+60,Nutrition Doodad,Health,Nutrition,31,1,11.95,8.99
+50,Nutrition Equipment,Health,Nutrition,31,10,102.95,91.95
+47,Nutrition Item,Health,Nutrition,31,12,117.95,105
+62,Nutrition Machine,Health,Nutrition,31,2,19,13.95
+31,Nutrition Mechanism,Health,Nutrition,31,2,16.95,14.99
+76,Nutrition Tool,Health,Nutrition,31,17,169.95,101
+65,Outdoors Doodad,Activity,Outdoors,5,2,19.99,11.95
+49,Outdoors Instrument,Activity,Outdoors,5,17,167.95,150.95
+35,Outdoors Mechanism,Activity,Outdoors,5,5,53.95,37.95
+58,Party Accessory,Entertainment,Party,26,11,108.95,75.99
+72,Party Attachment,Entertainment,Party,26,18,181.95,108.99
+27,Party Gear,Entertainment,Party,26,9,89.99,53.99
+5,Personal Accessory,Beauty,Personal,14,12,117.95,93.99
+36,Personal Mechanism,Beauty,Personal,14,15,146,131.95
+80,Sports Component,Activity,Sports,6,14,138.99,96.99
+15,Sports Gear,Activity,Sports,6,10,97.95,87.99
+25,Sports Mechanism,Activity,Sports,6,10,95.99,85.95
+46,Storage Accessory,Home,Storage,37,10,96.99,86.95
+67,Storage Equipment,Home,Storage,37,4,42.95,25.99
+93,Storage Gadget,Home,Storage,37,4,38.95,22.99
+18,Storage Instrument,Home,Storage,37,15,150.99,135
+6,Swimming Instrument,Activity,Swimming,7,19,192.95,115
+24,Technology Component,Electronics,Technology,21,17,174,156
+94,Technology Kit,Electronics,Technology,21,6,64.99,44
+56,Technology Machine,Electronics,Technology,21,12,123,73.95
+-1,Test Product 1,Health,Nutrition,31,0,999999,999999
+-2,Test Product 2,Health,Nutrition,31,0,0,0
+0,Test Product 3,Clothing,Baby,15,0,1000000,-1
+43,Tire Doodad,Automotive,Tire,10,12,122.95,73.95
+22,Tire Mechanism,Automotive,Tire,10,7,74.95,51.99
+16,Tire Thingamajig,Automotive,Tire,10,15,154.99,123
+28,Toy Apparatus,Entertainment,Toy,27,16,155.99,108
+20,Toy Attachment,Entertainment,Toy,27,9,92.95,64.99
+73,Toy Contraption,Entertainment,Toy,27,14,141.99,112
+44,Toy Equipment,Entertainment,Toy,27,12,123,86.95
+3,Toy Gadget,Entertainment,Toy,27,9,86,60
+39,Toy Item,Entertainment,Toy,27,8,76.99,60
+33,Truck Item,Automotive,Truck,11,18,184,110.95
+59,Truck Kit,Automotive,Truck,11,3,27,24.95
+71,Truck Kit,Automotive,Truck,11,4,41.99,36.95
+92,Truck Tool,Automotive,Truck,11,10,97.99,77.99
+66,Vitamin Doodad,Health,Vitamin,32,3,29.99,23.95
+48,Vitamin Widget,Health,Vitamin,32,8,80.95,64.99
+85,Womens Item,Clothing,Womens,18,10,96,76.99
+79,Womens Machine,Clothing,Womens,18,4,40,36

@@ -1,0 +1,4 @@
+﻿id,name_en,name_th
+1,Paid and awating shipment,ได้รับเงินจากลูกค้าและกำลังดำเนินการ Ship ของออกจากคลังสินค้า
+2,Shipped,Ship ของออกจากคลังสินค้าเสร็จสิ้น
+3,Delivered,ส่งของเสร็จสิ้น

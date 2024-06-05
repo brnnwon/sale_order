@@ -1,0 +1,40 @@
+﻿id,category_level_1,category_level_2
+1,Activity,Beach
+2,Activity,Biking
+3,Activity,Camping
+4,Activity,Fitness
+5,Activity,Outdoors
+6,Activity,Sports
+7,Activity,Swimming
+8,Automotive,Car
+9,Automotive,Engine
+10,Automotive,Tire
+11,Automotive,Truck
+12,Beauty,Bath
+13,Beauty,Hair Care
+14,Beauty,Personal
+15,Clothing,Baby
+16,Clothing,Kids
+17,Clothing,Mens
+18,Clothing,Womens
+19,Electronics,Camera
+20,Electronics,Computer
+21,Electronics,Technology
+22,Entertainment,Book
+23,Entertainment,Game
+24,Entertainment,Movie
+25,Entertainment,Music
+26,Entertainment,Party
+27,Entertainment,Toy
+28,Health,First Aid
+29,Health,Hair Care
+30,Health,Medicine
+31,Health,Nutrition
+32,Health,Vitamin
+33,Home,Cooking
+34,Home,Furniture
+35,Home,Home Improvement
+36,Home,Kitchen
+37,Home,Storage
+38,Pets,Aquarium
+39,Pets,Dog
