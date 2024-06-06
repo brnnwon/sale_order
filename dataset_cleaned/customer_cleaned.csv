@@ -1,0 +1,1001 @@
+id,first_name,last_name,gender,date_of_birth,Age,Age_Group,city,state
+95,Aaron,Murphy,M,2011-10-30,12,Pre-Teen,Vancouver,Washington
+200,Aaron,Gonzales,M,2021-02-08,3,Baby,Shanks,West Virginia
+459,Aaron,Jones,M,2016-08-27,7,Junior,Saint Amant,Louisiana
+609,Aaron,Jones,M,2014-03-25,10,Pre-Teen,Chatham,Louisiana
+654,Aaron,Rivera,M,2022-02-11,2,Baby,Reno,Nevada
+728,Aaron,Flores,M,2015-01-04,9,Pre-Teen,Brazeau,Missouri
+986,Aaron,Robinson,M,2015-09-30,8,Pre-Teen,Crofton,Kentucky
+119,Abigail,Torres,F,2020-10-08,3,Baby,Bethelridge,Kentucky
+394,Abigail,Garcia,F,2022-06-05,2,Baby,Burleson,Texas
+435,Abigail,White,F,2022-02-18,2,Baby,Ithaca,New York
+500,Abigail,Griffin,F,2013-08-17,10,Pre-Teen,Cincinnati,Ohio
+589,Abigail,Allen,F,2024-03-06,0,Baby,Circle Pines,Minnesota
+731,Abigail,Collins,F,2010-07-25,13,Teen and Older,New York,New York
+915,Abigail,Gonzales,F,2015-07-03,8,Pre-Teen,Guaynabo,Puerto Rico
+193,Adam,Kelly,M,2015-10-24,8,Pre-Teen,Kirkland,Washington
+325,Adam,Collins,M,2013-10-28,10,Pre-Teen,Jackson,Mississippi
+378,Adam,Martin,M,2023-01-25,1,Baby,Evansville,Wyoming
+522,Adam,Brooks,M,2014-03-15,10,Pre-Teen,Bloomville,New York
+534,Adam,Gonzales,M,2013-12-16,10,Pre-Teen,Mount Carmel,Pennsylvania
+972,Adam,Ramirez,M,2023-10-05,0,Baby,Dunning,Nebraska
+979,Adam,Ward,M,2021-03-21,3,Baby,Franklin,Indiana
+83,Aiden,Hughes,M,2014-02-06,10,Pre-Teen,Roanoke,Virginia
+138,Aiden,Peterson,M,2020-09-11,3,Baby,Spade,Texas
+147,Aiden,Wood,M,2014-10-18,9,Pre-Teen,Earlysville,Virginia
+168,Aiden,Allen,M,2018-05-27,6,Junior,Kimberling City,Missouri
+233,Aiden,Taylor,M,2016-03-28,8,Pre-Teen,Marietta,Ohio
+263,Aiden,Taylor,M,2021-02-01,3,Baby,San Jose,California
+273,Aiden,Morgan,M,2020-07-01,3,Baby,Hollywood,Maryland
+274,Aiden,Bell,M,2012-08-16,11,Pre-Teen,Pleasantville,New York
+284,Aiden,Rogers,M,2018-11-20,5,Junior,Rockwood,Tennessee
+496,Aiden,Jackson,M,2010-03-21,14,Teen and Older,Topton,North Carolina
+580,Aiden,Lewis,M,2019-10-19,4,Junior,Marshville,North Carolina
+726,Aiden,Russell,M,2019-02-26,5,Junior,Lookout,California
+969,Aiden,Martin,M,2013-04-19,11,Pre-Teen,Interlachen,Florida
+72,Alexander,Wilson,M,2010-07-01,13,Teen and Older,Poplar,Wisconsin
+244,Alexander,Torres,M,2023-05-03,1,Baby,Renton,Washington
+578,Alexander,King,M,2016-02-13,8,Pre-Teen,Ridgefield Park,New Jersey
+638,Alexander,Wilson,M,2015-06-09,8,Pre-Teen,Pacific Beach,Washington
+700,Alexander,Rogers,M,2011-07-27,12,Pre-Teen,Bolivar,New York
+833,Alexander,Evans,M,2012-07-05,11,Pre-Teen,Blue Ridge,Georgia
+883,Alexander,Powell,M,2013-11-23,10,Pre-Teen,Hoyt Lakes,Minnesota
+927,Alexander,Jones,M,2019-10-24,4,Junior,Nice,California
+61,Alexandra,White,F,2022-10-16,1,Baby,Callands,Virginia
+92,Alexandra,Parker,F,2010-11-12,13,Teen and Older,Steilacoom,Washington
+107,Alexandra,Perez,F,2016-05-21,8,Pre-Teen,Fort Ransom,North Dakota
+335,Alexandra,Bennett,F,2019-09-11,4,Junior,Pinehurst,Massachusetts
+389,Alexandra,Jones,F,2012-03-13,12,Pre-Teen,Spade,Texas
+466,Alexandra,Cox,F,2014-05-24,10,Pre-Teen,Saint Paul,Minnesota
+629,Alexandra,Wood,F,2023-05-02,1,Baby,Martel,Ohio
+648,Alexandra,Harris,F,2019-04-10,5,Junior,Havana,Illinois
+742,Alexandra,Murphy,F,2014-05-25,10,Pre-Teen,Bens Run,West Virginia
+760,Alexandra,Ramirez,F,2017-04-04,7,Junior,Painesdale,Michigan
+786,Alexandra,Simmons,F,2022-01-19,2,Baby,Mathiston,Mississippi
+896,Alexandra,Foster,F,2022-04-19,2,Baby,Merna,Nebraska
+998,Alexandra,Coleman,F,2012-12-23,11,Pre-Teen,Kathleen,Florida
+252,Alexis,Morris,F,2017-12-07,6,Junior,Milwaukee,Wisconsin
+530,Alexis,Lewis,F,2019-07-25,4,Junior,Washington,District of Columbia
+831,Alexis,Scott,F,2021-09-23,2,Baby,Tallassee,Tennessee
+852,Alexis,Sanchez,F,2014-06-30,9,Pre-Teen,Sugar Grove,Illinois
+853,Alexis,Howard,F,2022-02-06,2,Baby,El Paso,Texas
+867,Alexis,Scott,F,2013-03-27,11,Pre-Teen,Penn,Pennsylvania
+897,Alexis,Wilson,F,2010-01-02,14,Teen and Older,Lucerne,Colorado
+29,Allison,Thomas,F,2021-12-11,2,Baby,Lancaster,Pennsylvania
+102,Allison,Watson,F,2015-06-13,8,Pre-Teen,Lewiston,Nebraska
+128,Allison,Wood,F,2012-02-12,12,Pre-Teen,Mandeville,Louisiana
+173,Allison,Butler,F,2023-07-15,0,Baby,Scobey,Mississippi
+207,Allison,Lewis,F,2015-10-15,8,Pre-Teen,Millbrook,Illinois
+503,Allison,Robinson,F,2019-10-14,4,Junior,Rose Creek,Minnesota
+698,Allison,Coleman,F,2020-04-13,4,Junior,Big Creek,West Virginia
+970,Allison,Roberts,F,2012-01-15,12,Pre-Teen,Wilkes Barre,Pennsylvania
+45,Alyssa,Wilson,F,2023-07-20,0,Baby,Trenton,Georgia
+68,Alyssa,Lopez,F,2022-02-24,2,Baby,Crystal Lake,Illinois
+80,Alyssa,Ross,F,2019-04-24,5,Junior,Millport,New York
+84,Alyssa,Sanders,F,2019-03-04,5,Junior,Cogan Station,Pennsylvania
+166,Alyssa,Rivera,F,2012-12-29,11,Pre-Teen,Crestline,California
+387,Alyssa,Young,F,2013-12-03,10,Pre-Teen,Packwood,Washington
+564,Alyssa,Clark,F,2019-07-08,4,Junior,Altoona,Florida
+695,Alyssa,Cook,F,2017-12-13,6,Junior,Winston Salem,North Carolina
+799,Alyssa,Roberts,F,2015-05-09,9,Pre-Teen,Lindon,Utah
+938,Alyssa,Hall,F,2019-12-12,4,Junior,Clearlake,Washington
+217,Amanda,Howard,F,2018-01-14,6,Junior,Charlotte,North Carolina
+482,Amanda,Butler,F,2012-07-13,11,Pre-Teen,Boyd,Texas
+526,Amanda,Price,F,2018-10-11,5,Junior,Gully,Minnesota
+585,Amanda,Collins,F,2012-09-24,11,Pre-Teen,Hanover,Pennsylvania
+685,Amanda,Turner,F,2014-10-23,9,Pre-Teen,New York,New York
+770,Amanda,Lewis,F,2021-07-14,2,Baby,Pensacola,Florida
+813,Amanda,Thomas,F,2017-03-05,7,Junior,Cullen,Louisiana
+830,Amanda,Hill,F,2016-01-01,8,Pre-Teen,Gladstone,Oregon
+54,Amber,Hayes,F,2015-07-31,8,Pre-Teen,Paradox,New York
+115,Amber,Flores,F,2015-12-04,8,Pre-Teen,Monterey,Indiana
+278,Amber,Martinez,F,2011-01-19,13,Teen and Older,Clinton,Iowa
+338,Amber,Parker,F,2021-07-02,2,Baby,Silverdale,Washington
+429,Amber,Richardson,F,2016-06-08,7,Junior,Curdsville,Kentucky
+732,Amber,Simmons,F,2012-07-20,11,Pre-Teen,Council Hill,Oklahoma
+801,Amber,Coleman,F,2024-03-12,0,Baby,Winter Springs,Florida
+822,Amber,Evans,F,2021-11-22,2,Baby,Corpus Christi,Texas
+861,Amber,Richardson,F,2022-07-25,1,Baby,Stanfordville,New York
+936,Amber,Phillips,F,2011-11-24,12,Pre-Teen,Macon,Georgia
+87,Amelia,Wilson,F,2021-12-24,2,Baby,Tacoma,Washington
+134,Amelia,Perez,F,2015-04-14,9,Pre-Teen,Herington,Kansas
+238,Amelia,Jones,F,2023-08-03,0,Baby,Angola,Louisiana
+364,Amelia,Foster,F,2014-05-20,10,Pre-Teen,Royalston,Massachusetts
+473,Amelia,Sanders,F,2022-08-18,1,Baby,Washington,District of Columbia
+573,Amelia,Cook,F,2021-02-11,3,Baby,Playa Del Rey,California
+678,Amelia,Russell,F,2010-04-07,14,Teen and Older,Elkridge,Maryland
+788,Amelia,Rodriguez,F,2013-09-10,10,Pre-Teen,Fort Wayne,Indiana
+849,Amelia,Davis,F,2017-03-18,7,Junior,Homestead,Florida
+880,Amelia,Miller,F,2016-03-13,8,Pre-Teen,Morganza,Louisiana
+38,Anna,Bennett,F,2017-06-19,6,Junior,Hinesville,Georgia
+141,Anna,Simmons,F,2015-07-06,8,Pre-Teen,Happy,Kentucky
+239,Anna,Thomas,F,2017-03-15,7,Junior,Osceola,Wisconsin
+369,Anna,Morris,F,2013-11-10,10,Pre-Teen,El Paso,Texas
+635,Anna,Roberts,F,2017-04-25,7,Junior,Bossier City,Louisiana
+652,Anna,King,F,2013-03-27,11,Pre-Teen,Claverack,New York
+78,Anthony,Bell,M,2015-09-23,8,Pre-Teen,Carlton,Alabama
+341,Anthony,Hernandez,M,2013-11-11,10,Pre-Teen,Baltimore,Maryland
+383,Anthony,Murphy,M,2018-06-15,5,Junior,Olney,Montana
+414,Anthony,Rodriguez,M,2016-07-02,7,Junior,Valley Head,Alabama
+451,Anthony,Garcia,M,2023-11-19,0,Baby,Burgess,Virginia
+531,Anthony,Flores,M,2023-10-09,0,Baby,Trout Lake,Washington
+616,Anthony,Murphy,M,2022-08-31,1,Baby,Moreland,Georgia
+769,Anthony,Moore,M,2016-03-03,8,Pre-Teen,Boyden,Iowa
+36,Ashley,Allen,F,2021-06-10,2,Baby,Marion,Ohio
+610,Ashley,Rodriguez,F,2019-02-16,5,Junior,Barre,Vermont
+719,Ashley,Phillips,F,2012-12-19,11,Pre-Teen,Mullett Lake,Michigan
+901,Ashley,Brooks,F,2012-01-19,12,Pre-Teen,Haven,Kansas
+185,Aubrey,Walker,F,2020-01-17,4,Junior,Satanta,Kansas
+445,Aubrey,Mitchell,F,2021-11-14,2,Baby,Bulverde,Texas
+547,Aubrey,Scott,F,2014-12-05,9,Pre-Teen,Channahon,Illinois
+576,Aubrey,Green,F,2020-11-08,3,Baby,Taylor Springs,Illinois
+690,Aubrey,Scott,F,2018-11-29,5,Junior,Greenland,New Hampshire
+721,Aubrey,Foster,F,2021-12-22,2,Baby,Jacksonville,Illinois
+870,Aubrey,Jackson,F,2019-03-03,5,Junior,Laconia,New Hampshire
+900,Aubrey,Bailey,F,2019-01-22,5,Junior,Albany,New York
+933,Aubrey,Collins,F,2018-08-28,5,Junior,Port Chester,New York
+249,Audrey,Young,F,2012-11-18,11,Pre-Teen,Birchdale,Minnesota
+523,Audrey,Carter,F,2018-04-26,6,Junior,Carlton,Texas
+568,Audrey,Flores,F,2010-03-24,14,Teen and Older,Dupo,Illinois
+667,Audrey,Hill,F,2016-12-20,7,Junior,Hawkins,Wisconsin
+686,Audrey,Parker,F,2020-11-28,3,Baby,Colton,Ohio
+774,Audrey,Evans,F,2021-06-12,2,Baby,Du Quoin,Illinois
+967,Audrey,Johnson,F,2019-10-06,4,Junior,East Arlington,Vermont
+187,Austin,Turner,M,2010-08-08,13,Teen and Older,Orangeville,Pennsylvania
+447,Austin,Thompson,M,2013-01-27,11,Pre-Teen,Strongstown,Pennsylvania
+468,Austin,Griffin,M,2020-12-09,3,Baby,Allentown,Pennsylvania
+950,Austin,Johnson,M,2021-03-20,3,Baby,Salt Lake City,Utah
+4,Ava,Murphy,F,2018-04-29,6,Junior,Maplesville,Alabama
+48,Ava,Scott,F,2022-11-16,1,Baby,Vicksburg,Mississippi
+104,Ava,Hernandez,F,2020-12-04,3,Baby,Dover Plains,New York
+159,Ava,Bailey,F,2014-03-09,10,Pre-Teen,San Miguel,California
+219,Ava,Mitchell,F,2010-01-07,14,Teen and Older,Fremont,Michigan
+517,Ava,Flores,F,2010-03-12,14,Teen and Older,Brownville,New York
+683,Ava,Hill,F,2019-01-06,5,Junior,Catlin,Illinois
+47,Benjamin,Henderson,M,2015-12-19,8,Pre-Teen,Leesburg,New Jersey
+62,Benjamin,Diaz,M,2015-03-09,9,Pre-Teen,Floyd,New Mexico
+148,Benjamin,Smith,M,2011-02-27,13,Teen and Older,Pensacola,Florida
+170,Benjamin,Cook,M,2017-10-30,6,Junior,Washington,District of Columbia
+223,Benjamin,Washington,M,2017-03-29,7,Junior,San Diego,California
+234,Benjamin,Green,M,2018-03-28,6,Junior,Saint Paul,Minnesota
+749,Benjamin,Harris,M,2024-04-15,0,Baby,Homerville,Ohio
+889,Benjamin,King,M,2014-05-25,10,Pre-Teen,Riddle,Oregon
+42,Brandon,Moore,M,2020-06-16,3,Baby,Hopkins,Minnesota
+112,Brandon,Peterson,M,2017-01-10,7,Junior,Whitewater,Montana
+177,Brandon,Bryant,M,2014-11-07,9,Pre-Teen,Bloomington,Idaho
+380,Brandon,Rivera,M,2013-11-27,10,Pre-Teen,Agency,Iowa
+620,Brandon,Coleman,M,2017-07-22,6,Junior,San Diego,California
+782,Brandon,Clark,M,2013-12-21,10,Pre-Teen,Bryant,Alabama
+810,Brandon,Brown,M,2018-08-29,5,Junior,Denver,Colorado
+10,Brian,Campbell,M,2015-04-07,9,Pre-Teen,McGirk,Missouri
+188,Brian,Powell,M,2020-06-05,4,Junior,Martell,Nebraska
+259,Brian,Foster,M,2014-06-26,9,Pre-Teen,Garfield,New Jersey
+281,Brian,Murphy,M,2017-10-08,6,Junior,Columbia,South Carolina
+569,Brian,Morgan,M,2019-08-27,4,Junior,Greensboro,Alabama
+591,Brian,Miller,M,2017-12-17,6,Junior,Martinsburg,West Virginia
+33,Brianna,Butler,F,2024-01-17,0,Baby,Duckwater,Nevada
+51,Brianna,Richardson,F,2012-11-27,11,Pre-Teen,Warsaw,Indiana
+149,Brianna,Morris,F,2019-03-26,5,Junior,Perkins,Oklahoma
+179,Brianna,Perez,F,2013-04-16,11,Pre-Teen,Clarks,Nebraska
+189,Brianna,Torres,F,2011-07-29,12,Pre-Teen,Southwick,Massachusetts
+211,Brianna,Collins,F,2020-09-28,3,Baby,Charlotte,North Carolina
+404,Brianna,Sanchez,F,2019-11-03,4,Junior,Spring Mount,Pennsylvania
+524,Brianna,Clark,F,2022-12-02,1,Baby,Lawrence,Mississippi
+567,Brianna,Campbell,F,2016-05-14,8,Pre-Teen,Madera,California
+815,Brianna,Ward,F,2010-06-15,13,Teen and Older,Belmont,Louisiana
+816,Brianna,Gray,F,2017-05-30,7,Junior,Felton,Georgia
+940,Brianna,Cox,F,2018-07-07,5,Junior,Mansfield,Ohio
+32,Brittany,Edwards,F,2017-05-19,7,Junior,Sun City Center,Florida
+442,Brittany,Miller,F,2022-12-04,1,Baby,Marshall,Minnesota
+532,Brittany,Diaz,F,2020-11-12,3,Baby,Clarks Summit,Pennsylvania
+563,Brittany,Carter,F,2021-04-21,3,Baby,Seminole,Oklahoma
+636,Brittany,Walker,F,2020-03-04,4,Junior,Williamsport,Maryland
+679,Brittany,Miller,F,2014-12-05,9,Pre-Teen,Dewitt,Virginia
+707,Brittany,Thomas,F,2012-06-23,11,Pre-Teen,Sneads Ferry,North Carolina
+803,Brittany,Hill,F,2014-06-05,10,Pre-Teen,Kendalia,Texas
+806,Brittany,Roberts,F,2016-07-19,7,Junior,Bismarck,North Dakota
+888,Brittany,Stewart,F,2023-11-13,0,Baby,Koeltztown,Missouri
+929,Brittany,Sanchez,F,2013-04-06,11,Pre-Teen,Great Lakes,Illinois
+19,Charles,Green,M,2022-10-19,1,Baby,Seattle,Washington
+35,Charles,Bailey,M,2022-09-11,1,Baby,Showell,Maryland
+241,Charles,Murphy,M,2020-12-06,3,Baby,Haymarket,Virginia
+305,Charles,Richardson,M,2011-05-06,13,Teen and Older,East Lynn,West Virginia
+395,Charles,Young,M,2020-08-02,3,Baby,Sedgwick,Arkansas
+601,Charles,Wilson,M,2018-06-19,5,Junior,Strathmere,New Jersey
+669,Charles,Peterson,M,2022-09-17,1,Baby,Colorado Springs,Colorado
+863,Charles,Peterson,M,2015-11-07,8,Pre-Teen,Normalville,Pennsylvania
+954,Charles,Turner,M,2015-01-03,9,Pre-Teen,South Bend,Indiana
+971,Charles,Phillips,M,2021-11-23,2,Baby,Alton,Utah
+985,Charles,Coleman,M,2014-03-03,10,Pre-Teen,Holmen,Wisconsin
+144,Charlotte,Evans,F,2011-05-04,13,Teen and Older,Haverhill,Massachusetts
+330,Charlotte,Perry,F,2020-03-25,4,Junior,Hamlin,New York
+400,Charlotte,Howard,F,2018-03-02,6,Junior,Folsom,California
+515,Charlotte,Griffin,F,2010-12-20,13,Teen and Older,Moreno Valley,California
+554,Charlotte,Henderson,F,2013-05-18,11,Pre-Teen,Basehor,Kansas
+993,Charlotte,Edwards,F,2022-01-02,2,Baby,Trenton,Illinois
+277,Chelsea,Jenkins,F,2019-02-17,5,Junior,Scranton,Pennsylvania
+612,Chelsea,Bennett,F,2010-07-31,13,Teen and Older,Baxter,West Virginia
+656,Chelsea,Howard,F,2017-12-02,6,Junior,Coolidge,Georgia
+659,Chelsea,Taylor,F,2018-06-25,5,Junior,Doucette,Texas
+665,Chelsea,Richardson,F,2023-12-16,0,Baby,West Union,West Virginia
+724,Chelsea,Walker,F,2014-02-23,10,Pre-Teen,Burbank,California
+55,Christina,Phillips,F,2020-06-07,3,Baby,Bass Lake,California
+67,Christina,Williams,F,2014-10-14,9,Pre-Teen,Schaumburg,Illinois
+161,Christina,Thompson,F,2022-09-12,1,Baby,Murrayville,Georgia
+205,Christina,Diaz,F,2020-05-06,4,Junior,Ocean City,New Jersey
+218,Christina,Washington,F,2022-02-13,2,Baby,Newcomb,New York
+225,Christina,Taylor,F,2016-11-28,7,Junior,Lake Benton,Minnesota
+309,Christina,Green,F,2012-06-27,11,Pre-Teen,Roanoke,Virginia
+432,Christina,Watson,F,2024-03-09,0,Baby,Argyle,Michigan
+510,Christina,White,F,2017-12-21,6,Junior,Fort Wayne,Indiana
+545,Christina,Diaz,F,2019-11-03,4,Junior,New York,New York
+600,Christina,Morris,F,2021-07-24,2,Baby,Appleton,Wisconsin
+668,Christina,Bell,F,2016-10-10,7,Junior,Palms,Michigan
+765,Christina,Phillips,F,2020-04-16,4,Junior,Partridge,Kentucky
+807,Christina,Brooks,F,2020-02-28,4,Junior,Lake Charles,Louisiana
+818,Christina,Bennett,F,2014-05-27,10,Pre-Teen,Philo,Illinois
+892,Christina,Mitchell,F,2011-08-17,12,Pre-Teen,Middleton,Massachusetts
+3,Christopher,Harris,M,2010-02-21,14,Teen and Older,Climax,North Carolina
+89,Christopher,Garcia,M,2011-12-01,12,Pre-Teen,Tilghman,Maryland
+136,Christopher,Bennett,M,2015-06-04,9,Pre-Teen,Chester,Arkansas
+162,Christopher,Barnes,M,2012-01-04,12,Pre-Teen,Cropsey,Illinois
+165,Christopher,Butler,M,2010-12-01,13,Teen and Older,Riverside,New Jersey
+202,Christopher,Williams,M,2011-02-14,13,Teen and Older,Newark,New Jersey
+363,Christopher,Griffin,M,2012-08-06,11,Pre-Teen,Sunderland,Maryland
+477,Christopher,Wilson,M,2011-06-17,12,Pre-Teen,Danbury,Nebraska
+586,Christopher,Walker,M,2019-09-07,4,Junior,West Palm Beach,Florida
+762,Christopher,Cooper,M,2018-01-25,6,Junior,Pittsburgh,Pennsylvania
+811,Christopher,Richardson,M,2016-04-24,8,Pre-Teen,Shasta Lake,California
+997,Christopher,Brooks,M,2011-11-30,12,Pre-Teen,Hilger,Montana
+246,Claire,Peterson,F,2020-09-29,3,Baby,Philadelphia,Pennsylvania
+265,Claire,Kelly,F,2017-08-25,6,Junior,Pinson,Tennessee
+403,Claire,James,F,2020-09-06,3,Baby,Belcourt,North Dakota
+437,Claire,Rogers,F,2016-11-08,7,Junior,Indian Mound,Tennessee
+484,Claire,Cox,F,2020-02-18,4,Junior,El Dorado,Kansas
+566,Claire,Torres,F,2018-10-16,5,Junior,Brookland,Arkansas
+710,Claire,Robinson,F,2020-05-10,4,Junior,Huntington Park,California
+783,Claire,Hill,F,2022-11-10,1,Baby,Centralia,Texas
+789,Claire,Alexander,F,2019-04-13,5,Junior,Dukedom,Tennessee
+823,Claire,Martin,F,2023-09-10,0,Baby,Friedensburg,Pennsylvania
+955,Claire,Miller,F,2013-01-29,11,Pre-Teen,Salinas,California
+469,Courtney,Russell,F,2015-03-14,9,Pre-Teen,Kansas City,Missouri
+558,Courtney,Harris,F,2017-11-12,6,Junior,Glencoe,Missouri
+572,Courtney,Rivera,F,2018-02-18,6,Junior,Peoria,Illinois
+543,Daniel,Thomas,M,2011-06-09,12,Pre-Teen,Onset,Massachusetts
+626,Daniel,Flores,M,2020-07-29,3,Baby,Lakemore,Ohio
+962,Daniel,Alexander,M,2021-05-13,3,Baby,Frankfort,Kentucky
+973,Daniel,Rodriguez,M,2021-05-11,3,Baby,Colleyville,Texas
+243,Danielle,Brooks,F,2024-02-24,0,Baby,Clemson,South Carolina
+262,Danielle,Washington,F,2020-06-13,3,Baby,Switzer,West Virginia
+299,Danielle,Parker,F,2010-03-09,14,Teen and Older,Lafayette,Louisiana
+306,Danielle,Diaz,F,2017-02-03,7,Junior,North Windham,Connecticut
+319,Danielle,Long,F,2018-04-19,6,Junior,Oilton,Texas
+353,Danielle,Miller,F,2016-05-01,8,Pre-Teen,Bartow,Florida
+603,Danielle,Diaz,F,2013-01-03,11,Pre-Teen,Weber City,Virginia
+641,Danielle,Phillips,F,2012-08-11,11,Pre-Teen,Clay Center,Nebraska
+658,Danielle,Williams,F,2010-09-24,13,Teen and Older,Silva,Missouri
+693,Danielle,Gonzales,F,2017-01-26,7,Junior,Danevang,Texas
+798,Danielle,Gray,F,2023-10-14,0,Baby,Enterprise,Oregon
+845,Danielle,Powell,F,2014-05-29,10,Pre-Teen,Stilwell,Oklahoma
+139,David,Phillips,M,2022-12-23,1,Baby,Port O Connor,Texas
+143,David,Edwards,M,2023-03-28,1,Baby,Wells Bridge,New York
+285,David,Wilson,M,2019-10-02,4,Junior,Earleton,Florida
+28,Dylan,Butler,M,2013-01-30,11,Pre-Teen,Minneapolis,Minnesota
+74,Dylan,Alexander,M,2012-01-01,12,Pre-Teen,Novi,Michigan
+142,Dylan,Collins,M,2023-02-03,1,Baby,Pittsburg,Texas
+381,Dylan,Evans,M,2011-04-15,13,Teen and Older,Gibson Island,Maryland
+438,Dylan,Lewis,M,2013-06-06,10,Pre-Teen,Brea,California
+455,Dylan,Jackson,M,2019-01-17,5,Junior,Colfax,Illinois
+472,Dylan,Nelson,M,2022-07-18,1,Baby,Toledo,Ohio
+498,Dylan,Johnson,M,2018-08-15,5,Junior,Bakersfield,California
+546,Dylan,Wilson,M,2022-11-24,1,Baby,Springville,New York
+617,Dylan,Wood,M,2016-09-11,7,Junior,Dill City,Oklahoma
+712,Dylan,Baker,M,2023-07-07,0,Baby,Charlton,Massachusetts
+844,Dylan,Rodriguez,M,2011-07-19,12,Pre-Teen,Spottswood,Virginia
+968,Dylan,Carter,M,2021-08-28,2,Baby,Staten Island,New York
+991,Dylan,Alexander,M,2021-02-15,3,Baby,Rochester,New York
+31,Eleanor,Johnson,F,2018-02-15,6,Junior,Santa Clara,California
+313,Eleanor,Cox,F,2011-09-04,12,Pre-Teen,Blounts Creek,North Carolina
+357,Eleanor,Powell,F,2022-01-14,2,Baby,Oswego,Kansas
+373,Eleanor,Scott,F,2018-09-06,5,Junior,Glover,Vermont
+485,Eleanor,Turner,F,2015-08-07,8,Pre-Teen,Kimball,Minnesota
+715,Eleanor,Wright,F,2023-02-12,1,Baby,Little Neck,New York
+722,Eleanor,Johnson,F,2011-01-07,13,Teen and Older,Napier,West Virginia
+754,Eleanor,Thomas,F,2012-09-14,11,Pre-Teen,Rothsay,Minnesota
+764,Eleanor,Roberts,F,2012-01-12,12,Pre-Teen,Herrin,Illinois
+766,Eleanor,Young,F,2014-07-13,9,Pre-Teen,Eugene,Oregon
+828,Eleanor,White,F,2014-04-01,10,Pre-Teen,Otter Lake,Michigan
+838,Eleanor,Green,F,2017-04-12,7,Junior,Matlock,Washington
+359,Elizabeth,Perez,F,2024-02-19,0,Baby,Pilger,Nebraska
+494,Elizabeth,Wright,F,2010-07-02,13,Teen and Older,Dallas,Texas
+594,Elizabeth,Lee,F,2016-07-03,7,Junior,Primrose,Kentucky
+778,Elizabeth,Parker,F,2023-07-11,0,Baby,Medford,Oregon
+59,Emily,Bennett,F,2013-09-08,10,Pre-Teen,Atlanta,Georgia
+131,Emily,Martinez,F,2012-10-19,11,Pre-Teen,Cuyahoga Falls,Ohio
+231,Emily,Phillips,F,2013-02-28,11,Pre-Teen,Mission,Texas
+346,Emily,Bennett,F,2016-11-25,7,Junior,Fort Buchanan,Puerto Rico
+388,Emily,Washington,F,2017-01-20,7,Junior,Omaha,Nebraska
+393,Emily,Lee,F,2022-02-16,2,Baby,Cohasset,Minnesota
+559,Emily,Moore,F,2021-02-10,3,Baby,Granger,Indiana
+651,Emily,Griffin,F,2019-12-14,4,Junior,Central Village,Connecticut
+862,Emily,Campbell,F,2017-12-24,6,Junior,Pearce,Arizona
+130,Emma,Anderson,F,2021-07-22,2,Baby,Atlanta,Texas
+276,Emma,Jenkins,F,2011-11-15,12,Pre-Teen,Dayton,Ohio
+320,Emma,Mitchell,F,2019-11-07,4,Junior,Peterman,Alabama
+509,Emma,Powell,F,2022-03-06,2,Baby,Forrest City,Arkansas
+542,Emma,Wilson,F,2015-02-10,9,Pre-Teen,Turney,Missouri
+672,Emma,Allen,F,2012-07-23,11,Pre-Teen,Ellerslie,Maryland
+697,Emma,Taylor,F,2018-05-01,6,Junior,Bessemer,Alabama
+699,Emma,Smith,F,2022-09-25,1,Baby,Loup City,Nebraska
+723,Emma,Powell,F,2024-02-25,0,Baby,Montezuma,Indiana
+790,Emma,Howard,F,2022-07-27,1,Baby,Quinebaug,Connecticut
+834,Emma,Long,F,2013-01-07,11,Pre-Teen,Loganville,Wisconsin
+928,Emma,Morris,F,2021-10-25,2,Baby,Reading,Pennsylvania
+956,Emma,Price,F,2019-01-29,5,Junior,Plainfield,Illinois
+963,Emma,Cook,F,2023-03-09,1,Baby,Nashville,North Carolina
+964,Emma,Brown,F,2020-08-31,3,Baby,Topeka,Kansas
+93,Eric,Bryant,M,2012-05-24,12,Pre-Teen,Lawrence,Kansas
+123,Eric,Ross,M,2023-12-01,0,Baby,Brockton,Massachusetts
+399,Eric,Turner,M,2019-04-25,5,Junior,Sanders,Montana
+488,Eric,Price,M,2021-09-28,2,Baby,San Antonio,Texas
+608,Eric,Howard,M,2011-03-29,13,Teen and Older,Earlville,Illinois
+990,Eric,Johnson,M,2012-07-18,11,Pre-Teen,Paradise Inn,Washington
+221,Erin,Johnson,F,2015-05-13,9,Pre-Teen,Dayton,Montana
+422,Erin,Murphy,F,2020-03-02,4,Junior,Whitewater,Michigan
+797,Erin,Morris,F,2021-03-08,3,Baby,Brewerton,New York
+941,Erin,Flores,F,2010-06-06,13,Teen and Older,Piedmont,Missouri
+23,Ethan,Miller,M,2023-10-20,0,Baby,Vardaman,Mississippi
+26,Ethan,Price,M,2015-02-01,9,Pre-Teen,New River,Virginia
+155,Ethan,Miller,M,2014-11-18,9,Pre-Teen,Billingsley,Alabama
+551,Ethan,Sanders,M,2023-05-17,1,Baby,Bainbridge Island,Washington
+734,Ethan,Watson,M,2018-05-24,6,Junior,Fork,Maryland
+832,Ethan,Kelly,M,2022-05-13,2,Baby,Lynn,Massachusetts
+902,Ethan,Lewis,M,2016-12-27,7,Junior,Avalon,California
+197,Evelyn,Gonzales,F,2012-02-10,12,Pre-Teen,Burnsville,Minnesota
+235,Evelyn,Williams,F,2018-07-20,5,Junior,Mulberry,Tennessee
+282,Evelyn,Roberts,F,2011-08-09,12,Pre-Teen,Warsaw,Indiana
+323,Evelyn,Parker,F,2019-02-22,5,Junior,Tennille,Georgia
+376,Evelyn,Bell,F,2023-08-10,0,Baby,Tulsa,Oklahoma
+779,Evelyn,Reed,F,2021-04-20,3,Baby,Brisbane,California
+854,Evelyn,Hall,F,2012-08-27,11,Pre-Teen,Otho,Iowa
+882,Evelyn,Garcia,F,2013-05-03,11,Pre-Teen,Fishersville,Virginia
+886,Evelyn,Collins,F,2014-09-23,9,Pre-Teen,Crystal Hill,Virginia
+921,Evelyn,Lewis,F,2010-09-19,13,Teen and Older,Caliente,Nevada
+982,Evelyn,Hughes,F,2010-10-03,13,Teen and Older,Rehobeth,Maryland
+169,Gabriel,Thompson,M,2012-12-05,11,Pre-Teen,Maysel,West Virginia
+279,Gabriel,King,M,2011-07-07,12,Pre-Teen,Albuquerque,New Mexico
+416,Gabriel,Lee,M,2010-11-11,13,Teen and Older,Puckett,Mississippi
+541,Gabriel,Johnson,M,2018-07-20,5,Junior,Readyville,Tennessee
+808,Gabriel,Powell,M,2022-10-18,1,Baby,Alvaton,Kentucky
+827,Gabriel,Alexander,M,2016-06-15,7,Junior,Kansas City,Missouri
+868,Gabriel,Sanders,M,2017-03-12,7,Junior,Marysville,Washington
+582,Grace,Rivera,F,2019-05-28,5,Junior,Ellsworth,Iowa
+848,Grace,Lewis,F,2013-07-15,10,Pre-Teen,Vanderbilt,Michigan
+899,Grace,Coleman,F,2023-06-22,0,Baby,Halbur,Iowa
+245,Haley,Walker,F,2013-04-05,11,Pre-Teen,Tarlton,Ohio
+362,Haley,Perry,F,2020-11-17,3,Baby,Goldvein,Virginia
+453,Haley,Alexander,F,2012-08-13,11,Pre-Teen,Sioux City,Iowa
+461,Haley,Morris,F,2011-02-27,13,Teen and Older,Rising Fawn,Georgia
+673,Haley,Long,F,2015-12-24,8,Pre-Teen,Glen Richey,Pennsylvania
+814,Haley,Brown,F,2010-07-10,13,Teen and Older,Dallas,Texas
+914,Haley,Peterson,F,2014-02-20,10,Pre-Teen,Grace City,North Dakota
+21,Hannah,Perez,F,2013-12-11,10,Pre-Teen,Woodlawn,Virginia
+157,Hannah,Foster,F,2022-11-10,1,Baby,Kissimmee,Florida
+286,Hannah,Miller,F,2011-02-06,13,Teen and Older,Sheridan,Oregon
+349,Hannah,Howard,F,2016-07-01,7,Junior,Boulder,Colorado
+418,Hannah,Sanders,F,2022-11-18,1,Baby,Antwerp,Ohio
+491,Hannah,Carter,F,2011-02-02,13,Teen and Older,Sharon,North Dakota
+624,Hannah,Simmons,F,2020-01-14,4,Junior,Denham Springs,Louisiana
+805,Hannah,Morgan,F,2017-03-07,7,Junior,The Dalles,Oregon
+958,Hannah,Martinez,F,2010-09-14,13,Teen and Older,Lodi,Missouri
+109,Heather,Cooper,F,2011-02-19,13,Teen and Older,Auburndale,Massachusetts
+210,Heather,Foster,F,2011-07-14,12,Pre-Teen,Kenova,West Virginia
+275,Heather,Thomas,F,2010-04-09,14,Teen and Older,Trenton,New Jersey
+348,Heather,Gray,F,2013-11-07,10,Pre-Teen,Garland,North Carolina
+495,Heather,Johnson,F,2012-12-31,11,Pre-Teen,Leroy,Pennsylvania
+511,Heather,Rogers,F,2014-06-28,9,Pre-Teen,Agency,Iowa
+633,Heather,Flores,F,2016-01-01,8,Pre-Teen,Rockbridge,Ohio
+802,Heather,James,F,2010-02-23,14,Teen and Older,Ochopee,Florida
+876,Heather,Clark,F,2021-12-20,2,Baby,Gateway,Arkansas
+976,Heather,Turner,F,2020-02-13,4,Junior,Ogallah,Kansas
+513,Henry,Gonzales,M,2013-02-22,11,Pre-Teen,Leary,Georgia
+516,Henry,Hernandez,M,2010-06-20,13,Teen and Older,Townsend,Delaware
+521,Henry,Brown,M,2022-05-28,2,Baby,Anaconda,Montana
+784,Henry,Stewart,M,2012-09-15,11,Pre-Teen,Cecilia,Louisiana
+829,Henry,Campbell,M,2022-12-06,1,Baby,Cambridge,New York
+118,Isaac,Flores,M,2019-10-08,4,Junior,Washburn,Illinois
+304,Isaac,Stewart,M,2018-11-13,5,Junior,Warren,Michigan
+350,Isaac,Bryant,M,2012-07-16,11,Pre-Teen,Edgewater,New Jersey
+413,Isaac,Edwards,M,2015-05-26,9,Pre-Teen,Tangier,Virginia
+452,Isaac,Garcia,M,2022-05-14,2,Baby,Trujillo Alto,Puerto Rico
+556,Isaac,Flores,M,2022-11-24,1,Baby,Derby Line,Vermont
+750,Isaac,Morris,M,2024-02-03,0,Baby,Moran,Texas
+850,Isaac,White,M,2019-08-19,4,Junior,Onekama,Michigan
+856,Isaac,Cook,M,2022-08-04,1,Baby,Watson,Illinois
+881,Isaac,Ross,M,2013-10-17,10,Pre-Teen,Monte Rio,California
+904,Isaac,Adams,M,2015-08-24,8,Pre-Teen,Terral,Oklahoma
+156,Isabella,Bryant,F,2010-05-28,14,Teen and Older,Shreveport,Louisiana
+230,Isabella,Ross,F,2021-04-15,3,Baby,Swansea,South Carolina
+254,Isabella,Hayes,F,2015-03-25,9,Pre-Teen,Hialeah,Florida
+269,Isabella,Phillips,F,2020-01-15,4,Junior,Stratton,Ohio
+297,Isabella,Brooks,F,2022-04-20,2,Baby,Pantego,North Carolina
+450,Isabella,Kelly,F,2011-03-13,13,Teen and Older,Hanamaulu,Hawaii
+839,Isabella,Patterson,F,2019-07-05,4,Junior,Biloxi,Mississippi
+911,Isabella,King,F,2022-08-15,1,Baby,Winona Lake,Indiana
+949,Isabella,Cook,F,2023-07-22,0,Baby,Nice,California
+25,Jack,Lee,M,2011-09-30,12,Pre-Teen,Bim,West Virginia
+190,Jack,Russell,M,2022-05-02,2,Baby,Springville,Pennsylvania
+240,Jack,Young,M,2018-03-21,6,Junior,Williams,South Carolina
+316,Jack,Martin,M,2022-07-17,1,Baby,Washington,District of Columbia
+528,Jack,Cooper,M,2021-11-09,2,Baby,Sheldon,Wisconsin
+536,Jack,Hall,M,2023-08-23,0,Baby,Montrose,Illinois
+884,Jack,Sanchez,M,2014-10-25,9,Pre-Teen,Des Moines,Iowa
+52,James,Lee,M,2011-06-14,12,Pre-Teen,Equality,Illinois
+113,James,Powell,M,2017-02-23,7,Junior,Lake Clear,New York
+125,James,Reed,M,2017-11-19,6,Junior,San Jose,California
+272,James,Collins,M,2021-02-07,3,Baby,Clovis,New Mexico
+419,James,Washington,M,2014-09-24,9,Pre-Teen,Rockport,Illinois
+487,James,Jones,M,2022-06-11,1,Baby,Muscatine,Illinois
+605,James,Barnes,M,2019-05-12,5,Junior,Fruitvale,Texas
+619,James,Watson,M,2017-06-07,6,Junior,Oklahoma City,Oklahoma
+666,James,Henderson,M,2018-12-06,5,Junior,San Jose,California
+860,James,Brooks,M,2017-08-24,6,Junior,Henrietta,New York
+924,James,Diaz,M,2012-03-17,12,Pre-Teen,McCaulley,Texas
+75,Jasmine,Gray,F,2014-05-13,10,Pre-Teen,Brinkhaven,Ohio
+122,Jasmine,Ramirez,F,2018-01-08,6,Junior,Hooven,Ohio
+255,Jasmine,Ross,F,2020-03-10,4,Junior,Ridgewood,New York
+405,Jasmine,Ross,F,2019-03-13,5,Junior,Wichita,Kansas
+434,Jasmine,Jenkins,F,2018-05-08,6,Junior,Fingerville,South Carolina
+758,Jasmine,Taylor,F,2023-03-03,1,Baby,Scotia,Nebraska
+2,Jason,Clark,M,2012-08-10,11,Pre-Teen,Pine Top,Kentucky
+86,Jason,Richardson,M,2011-03-29,13,Teen and Older,Gandeeville,West Virginia
+446,Jason,Rodriguez,M,2020-03-13,4,Junior,Lake Benton,Minnesota
+561,Jason,Stewart,M,2023-02-14,1,Baby,Lakeport,California
+684,Jason,Peterson,M,2012-11-03,11,Pre-Teen,Huson,Montana
+794,Jason,Griffin,M,2022-11-26,1,Baby,Honolulu,Hawaii
+930,Jason,King,M,2021-01-15,3,Baby,Dallas,Georgia
+960,Jason,Jenkins,M,2015-06-15,8,Pre-Teen,Otto,North Carolina
+961,Jason,Griffin,M,2011-03-21,13,Teen and Older,Tracyton,Washington
+126,Jennifer,Mitchell,F,2013-07-28,10,Pre-Teen,Sumava Resorts,Indiana
+198,Jennifer,Moore,F,2022-04-09,2,Baby,Webster,Indiana
+321,Jennifer,Brooks,F,2010-02-15,14,Teen and Older,Mayslick,Kentucky
+354,Jennifer,White,F,2018-06-29,5,Junior,Kaleva,Michigan
+502,Jennifer,Campbell,F,2013-08-01,10,Pre-Teen,Coleman,Texas
+627,Jennifer,Smith,F,2023-06-07,0,Baby,Woodside,Delaware
+729,Jennifer,Campbell,F,2014-03-16,10,Pre-Teen,Archbald,Pennsylvania
+932,Jennifer,Baker,F,2021-12-24,2,Baby,Rooseveltown,New York
+1,Jeremy,Washington,M,2014-08-30,9,Pre-Teen,Pittsburgh,Pennsylvania
+183,Jeremy,Reed,M,2023-07-27,0,Baby,Westmoreland,Kansas
+237,Jeremy,Kelly,M,2012-02-16,12,Pre-Teen,Southern Pines,North Carolina
+347,Jeremy,Foster,M,2019-03-10,5,Junior,Warsaw,Ohio
+171,Jessica,Rivera,F,2012-08-11,11,Pre-Teen,Washington,District of Columbia
+236,Jessica,Hayes,F,2023-11-04,0,Baby,Lentner,Missouri
+283,Jessica,Campbell,F,2015-08-12,8,Pre-Teen,Toone,Tennessee
+290,Jessica,Wood,F,2021-12-15,2,Baby,North Street,Michigan
+499,Jessica,Russell,F,2010-09-01,13,Teen and Older,Wilkes Barre,Pennsylvania
+680,Jessica,Lewis,F,2020-08-04,3,Baby,Arlington,Texas
+733,Jessica,Hernandez,F,2018-11-30,5,Junior,South Greenfield,Missouri
+981,Jessica,Torres,F,2019-04-13,5,Junior,Johnson City,Tennessee
+1000,Jessica,Peterson,F,2019-03-27,5,Junior,Saint Paul,Minnesota
+16,John,Clark,M,2010-06-16,13,Teen and Older,Anchorage,Alaska
+302,John,Hughes,M,2011-03-01,13,Teen and Older,Schuylkill Haven,Pennsylvania
+375,John,Ward,M,2012-01-07,12,Pre-Teen,Fair Haven,Vermont
+417,John,Campbell,M,2016-11-17,7,Junior,Arlington,Iowa
+508,John,James,M,2018-07-05,5,Junior,San Antonio,Texas
+701,John,Perez,M,2019-05-04,5,Junior,Lascassas,Tennessee
+705,John,Mitchell,M,2014-07-01,9,Pre-Teen,Orangeburg,South Carolina
+718,John,Hall,M,2011-04-05,13,Teen and Older,Dubre,Kentucky
+759,John,Alexander,M,2016-02-24,8,Pre-Teen,Coldwater,Ohio
+918,John,Cox,M,2015-01-01,9,Pre-Teen,El Mirage,Arizona
+983,John,Diaz,M,2018-03-20,6,Junior,Knoxville,Tennessee
+481,Jonathan,Jenkins,M,2014-08-07,9,Pre-Teen,Mill Shoals,Illinois
+657,Jonathan,Ross,M,2019-04-26,5,Junior,West Palm Beach,Florida
+703,Jonathan,Russell,M,2018-05-31,6,Junior,Waves,North Carolina
+893,Jonathan,Murphy,M,2020-03-10,4,Junior,Champlain,New York
+957,Jonathan,Anderson,M,2021-08-21,2,Baby,Dunmor,Kentucky
+11,Jose,Reed,M,2011-12-02,12,Pre-Teen,Henderson,Nevada
+73,Jose,Cooper,M,2016-01-15,8,Pre-Teen,Louisville,Kansas
+114,Jose,Cooper,M,2023-10-27,0,Baby,Houma,Louisiana
+153,Jose,Kelly,M,2014-08-21,9,Pre-Teen,Oxford,New York
+327,Jose,Murphy,M,2018-08-03,5,Junior,Middletown,Connecticut
+336,Jose,Allen,M,2018-04-26,6,Junior,Cragsmoor,New York
+866,Jose,Diaz,M,2010-01-31,14,Teen and Older,Jonesville,Louisiana
+920,Jose,Sanchez,M,2014-11-06,9,Pre-Teen,Fairfield,Texas
+12,Joseph,Torres,M,2019-12-06,4,Junior,San Bernardino,California
+203,Joseph,Lopez,M,2015-01-07,9,Pre-Teen,Pontiac,Illinois
+206,Joseph,Morris,M,2015-03-07,9,Pre-Teen,Springville,New York
+490,Joseph,Roberts,M,2020-01-09,4,Junior,Mobile,Alabama
+583,Joseph,Murphy,M,2014-07-14,9,Pre-Teen,Pioneer,Ohio
+599,Joseph,Coleman,M,2013-05-30,11,Pre-Teen,Juncos,Puerto Rico
+677,Joseph,Jones,M,2017-05-01,7,Junior,Roswell,New Mexico
+747,Joseph,James,M,2018-03-06,6,Junior,Upper Fairmount,Maryland
+939,Joseph,Watson,M,2018-08-17,5,Junior,Tipton,Kansas
+76,Joshua,Williams,M,2015-01-04,9,Pre-Teen,Menominee,Michigan
+90,Joshua,Bennett,M,2010-10-19,13,Teen and Older,Urbandale,Iowa
+154,Joshua,Williams,M,2020-08-23,3,Baby,Mims,Florida
+216,Joshua,Gray,M,2012-07-18,11,Pre-Teen,Saint Leo,Florida
+470,Joshua,Cook,M,2020-04-25,4,Junior,Chestnut Mountain,Georgia
+544,Joshua,Richardson,M,2011-11-17,12,Pre-Teen,Dayton,Ohio
+553,Joshua,Adams,M,2014-08-16,9,Pre-Teen,Valley Forge,Pennsylvania
+596,Joshua,Adams,M,2022-09-24,1,Baby,New York,New York
+643,Joshua,Brown,M,2016-02-15,8,Pre-Teen,Cando,North Dakota
+817,Joshua,Reed,M,2020-04-27,4,Junior,Amarillo,Texas
+864,Joshua,Wright,M,2021-06-19,2,Baby,Lake Worth,Florida
+872,Joshua,Kelly,M,2013-06-26,10,Pre-Teen,Perry,Pennsylvania
+937,Joshua,Harris,M,2023-01-23,1,Baby,Saint Petersburg,Florida
+984,Joshua,James,M,2016-02-12,8,Pre-Teen,Cleveland,Mississippi
+996,Joshua,Coleman,M,2013-06-07,10,Pre-Teen,Ruckersville,Virginia
+7,Julian,Turner,M,2021-05-20,3,Baby,Dearing,Georgia
+30,Julian,Wilson,M,2013-02-03,11,Pre-Teen,Wewoka,Oklahoma
+308,Julian,Moore,M,2022-02-05,2,Baby,Urania,Louisiana
+874,Julian,Evans,M,2021-08-12,2,Baby,Heidrick,Kentucky
+875,Julian,Williams,M,2018-05-17,6,Junior,Tulsa,Oklahoma
+497,Justin,Morgan,M,2016-12-16,7,Junior,Pomfret Center,Connecticut
+581,Justin,Cox,M,2022-09-06,1,Baby,Willow,Alaska
+688,Justin,Simmons,M,2013-01-07,11,Pre-Teen,Jarvisburg,North Carolina
+716,Justin,Rodriguez,M,2010-01-12,14,Teen and Older,Grand Rapids,Michigan
+898,Justin,Adams,M,2014-03-04,10,Pre-Teen,Fredonia,Pennsylvania
+912,Justin,Williams,M,2012-09-06,11,Pre-Teen,Ashland,Massachusetts
+934,Justin,Robinson,M,2013-09-04,10,Pre-Teen,Saint Johns,Pennsylvania
+965,Justin,Hernandez,M,2020-06-29,3,Baby,Russellton,Pennsylvania
+184,Kaitlyn,Perry,F,2018-10-08,5,Junior,Marienville,Pennsylvania
+396,Kaitlyn,Stewart,F,2015-08-18,8,Pre-Teen,Tamworth,New Hampshire
+457,Kaitlyn,Peterson,F,2018-05-26,6,Junior,Spokane,Washington
+647,Kaitlyn,Stewart,F,2020-10-22,3,Baby,New Germany,Minnesota
+711,Kaitlyn,Roberts,F,2012-07-06,11,Pre-Teen,Tarentum,Pennsylvania
+738,Kaitlyn,Mitchell,F,2018-06-12,5,Junior,Yulee,Florida
+741,Kaitlyn,Sanders,F,2013-03-12,11,Pre-Teen,Levelland,Texas
+163,Katherine,Young,F,2015-11-13,8,Pre-Teen,Olema,California
+164,Katherine,Perry,F,2021-10-22,2,Baby,Fiskeville,Rhode Island
+186,Katherine,Diaz,F,2010-08-31,13,Teen and Older,Odessa,Texas
+342,Katherine,Wilson,F,2020-12-09,3,Baby,Manlius,New York
+356,Katherine,Adams,F,2011-09-16,12,Pre-Teen,Woodlawn,Tennessee
+382,Katherine,Washington,F,2016-09-20,7,Junior,Memphis,Tennessee
+433,Katherine,Jones,F,2023-07-23,0,Baby,Alcalde,New Mexico
+537,Katherine,Martin,F,2015-12-26,8,Pre-Teen,Wilkes Barre,Pennsylvania
+555,Katherine,Parker,F,2020-12-17,3,Baby,Metz,Missouri
+846,Katherine,Wilson,F,2010-01-20,14,Teen and Older,Poultney,Vermont
+913,Katherine,Simmons,F,2012-03-28,12,Pre-Teen,Gazelle,California
+923,Katherine,Patterson,F,2010-10-28,13,Teen and Older,Raleigh,West Virginia
+966,Katherine,Foster,F,2022-04-22,2,Baby,Charleston,South Carolina
+37,Kayla,Phillips,F,2018-05-26,6,Junior,New Orleans,Louisiana
+110,Kayla,Torres,F,2016-08-24,7,Junior,Huntsville,Alabama
+258,Kayla,Foster,F,2016-08-25,7,Junior,Mccutcheon Field,North Carolina
+293,Kayla,Sanchez,F,2013-01-08,11,Pre-Teen,Gowanda,New York
+420,Kayla,Bailey,F,2017-04-28,7,Junior,Holbrook,New York
+520,Kayla,Alexander,F,2015-08-03,8,Pre-Teen,Spirit Lake,Iowa
+597,Kayla,Diaz,F,2015-11-22,8,Pre-Teen,Mashpee,Massachusetts
+632,Kayla,Evans,F,2010-08-16,13,Teen and Older,San Marcos,Texas
+637,Kayla,Evans,F,2010-03-19,14,Teen and Older,Morrill,Maine
+855,Kayla,Phillips,F,2016-11-20,7,Junior,Vero Beach,Florida
+887,Kayla,Russell,F,2015-12-13,8,Pre-Teen,Phoenix,Arizona
+13,Kelsey,Taylor,F,2012-11-19,11,Pre-Teen,New Haven,Connecticut
+736,Kelsey,Morgan,F,2020-09-19,3,Baby,Montpelier,Idaho
+744,Kelsey,Turner,F,2010-09-10,13,Teen and Older,Belle Valley,Ohio
+776,Kelsey,Johnson,F,2015-09-06,8,Pre-Teen,East Berlin,Connecticut
+791,Kelsey,Cook,F,2019-07-17,4,Junior,Tampa,Florida
+111,Kevin,Griffin,M,2010-05-09,14,Teen and Older,East Dover,Vermont
+280,Kevin,Jones,M,2015-10-28,8,Pre-Teen,Rock Falls,Illinois
+371,Kevin,Edwards,M,2017-05-23,7,Junior,Fairfax,Missouri
+415,Kevin,Lopez,M,2019-05-24,5,Junior,Kansas City,Missouri
+486,Kevin,Ramirez,M,2010-11-07,13,Teen and Older,Salt Lake City,Utah
+525,Kevin,Kelly,M,2019-08-22,4,Junior,Bovina,Texas
+602,Kevin,Garcia,M,2014-10-04,9,Pre-Teen,Wadley,Alabama
+980,Kevin,Collins,M,2011-01-26,13,Teen and Older,Camp,Arkansas
+17,Kimberly,Hall,F,2016-08-03,7,Junior,Carthage,Illinois
+70,Kimberly,Jackson,F,2016-12-21,7,Junior,Berkeley,California
+132,Kimberly,Ross,F,2019-09-03,4,Junior,Remote,Oregon
+505,Kimberly,Evans,F,2018-10-03,5,Junior,Forbes Road,Pennsylvania
+714,Kimberly,Barnes,F,2017-02-03,7,Junior,Rockford,Illinois
+761,Kimberly,Brooks,F,2017-05-07,7,Junior,Harrold,South Dakota
+859,Kimberly,Jones,F,2016-11-18,7,Junior,Hartford,Connecticut
+942,Kimberly,Ramirez,F,2010-12-25,13,Teen and Older,Erieville,New York
+977,Kimberly,Butler,F,2016-02-20,8,Pre-Teen,Wyoming,Rhode Island
+995,Kimberly,Perry,F,2022-02-27,2,Baby,Summit Argo,Illinois
+46,Kyle,Gonzales,M,2013-05-23,11,Pre-Teen,Chaparral,New Mexico
+167,Kyle,Hernandez,M,2015-01-30,9,Pre-Teen,Sneedville,Tennessee
+180,Kyle,Diaz,M,2022-03-22,2,Baby,Boomer,West Virginia
+247,Kyle,Anderson,M,2015-04-07,9,Pre-Teen,Raynham,Massachusetts
+288,Kyle,Washington,M,2021-10-19,2,Baby,North River,New York
+295,Kyle,Lee,M,2017-06-25,6,Junior,Windsor,Ohio
+328,Kyle,Perry,M,2022-08-30,1,Baby,Rio Grande,Ohio
+339,Kyle,Watson,M,2012-06-19,11,Pre-Teen,Princeton,Oregon
+384,Kyle,Mitchell,M,2022-05-28,2,Baby,Lolo,Montana
+621,Kyle,Alexander,M,2011-04-24,13,Teen and Older,Cincinnati,Ohio
+745,Kyle,Henderson,M,2019-05-19,5,Junior,Nashville,Indiana
+785,Kyle,Lopez,M,2012-05-29,12,Pre-Teen,Hazel,South Dakota
+891,Kyle,Phillips,M,2020-03-21,4,Junior,Ladson,South Carolina
+947,Kyle,Robinson,M,2022-05-27,2,Baby,Old Town,Florida
+158,Laura,Morgan,F,2015-03-16,9,Pre-Teen,Camarillo,California
+191,Laura,Martinez,F,2011-07-15,12,Pre-Teen,Hillsboro,Texas
+199,Laura,Powell,F,2020-08-10,3,Baby,Voltaire,North Dakota
+287,Laura,Lee,F,2021-02-01,3,Baby,Oxford,Florida
+310,Laura,Ross,F,2021-07-12,2,Baby,Farrell,Pennsylvania
+311,Laura,Price,F,2012-05-14,12,Pre-Teen,Cuero,Texas
+535,Laura,Rodriguez,F,2021-12-02,2,Baby,Schuyler,Virginia
+743,Laura,Torres,F,2018-12-16,5,Junior,Seiling,Oklahoma
+85,Lauren,Martinez,F,2021-02-01,3,Baby,Concord,Vermont
+436,Lauren,Morgan,F,2017-05-23,7,Junior,Kimmswick,Missouri
+527,Lauren,Turner,F,2015-04-27,9,Pre-Teen,Wyola,Montana
+650,Lauren,Martin,F,2012-01-31,12,Pre-Teen,Mount Vernon,Iowa
+775,Lauren,Perry,F,2015-07-03,8,Pre-Teen,Rockford,Illinois
+787,Lauren,Ward,F,2012-10-06,11,Pre-Teen,Spokane,Washington
+919,Lauren,King,F,2021-08-22,2,Baby,Devine,Texas
+182,Layla,Mitchell,F,2013-06-03,11,Pre-Teen,Hyattville,Wyoming
+351,Layla,Green,F,2023-10-18,0,Baby,Hickman,Kentucky
+398,Layla,Miller,F,2014-12-25,9,Pre-Teen,Scranton,Pennsylvania
+426,Layla,Young,F,2020-06-16,3,Baby,McQuady,Kentucky
+604,Layla,Washington,F,2021-07-06,2,Baby,Barronett,Wisconsin
+843,Layla,Powell,F,2012-05-14,12,Pre-Teen,New Britain,Connecticut
+909,Layla,Patterson,F,2021-03-03,3,Baby,Newark,New Jersey
+27,Lillian,Lopez,F,2019-10-28,4,Junior,Old Lyme,Connecticut
+105,Lillian,Scott,F,2023-09-01,0,Baby,Adamstown,Maryland
+358,Lillian,Price,F,2015-05-23,9,Pre-Teen,Longville,Louisiana
+386,Lillian,Perez,F,2011-10-05,12,Pre-Teen,Humphrey,Arkansas
+713,Lillian,Williams,F,2018-10-14,5,Junior,Westlake,Ohio
+717,Lillian,Ramirez,F,2016-10-29,7,Junior,Canaan,Maine
+836,Lillian,James,F,2019-05-15,5,Junior,Lake City,Florida
+926,Lillian,Davis,F,2021-12-20,2,Baby,Lake City,Pennsylvania
+333,Maria,Wright,F,2022-07-27,1,Baby,Hayward,California
+366,Maria,Perez,F,2014-08-21,9,Pre-Teen,Kell,Illinois
+379,Maria,Foster,F,2010-08-22,13,Teen and Older,New Freedom,Pennsylvania
+489,Maria,Ramirez,F,2020-06-23,3,Baby,Blytheville,Arkansas
+910,Maria,Perry,F,2010-02-19,14,Teen and Older,Unadilla,New York
+946,Maria,Morgan,F,2010-11-18,13,Teen and Older,Willow Beach,Arizona
+989,Maria,Sanders,F,2021-03-12,3,Baby,Earl Park,Indiana
+44,Mark,Bailey,M,2018-07-09,5,Junior,Gunnison,Colorado
+64,Mark,Ramirez,M,2010-11-15,13,Teen and Older,Hinckley,Minnesota
+135,Mark,Green,M,2020-04-22,4,Junior,Klamath Falls,Oregon
+160,Mark,Griffin,M,2012-04-15,12,Pre-Teen,Pittsfield,Maine
+292,Mark,Diaz,M,2023-05-01,1,Baby,Hampton,Illinois
+385,Mark,Collins,M,2012-06-15,11,Pre-Teen,White Hall,Maryland
+467,Mark,Collins,M,2016-04-23,8,Pre-Teen,Argyle,Iowa
+755,Mark,Long,M,2020-06-30,3,Baby,Punta Gorda,Florida
+792,Mark,Carter,M,2017-01-14,7,Junior,Athens,Alabama
+917,Mark,King,M,2012-01-24,12,Pre-Teen,Rosebud,South Dakota
+945,Mark,Hayes,M,2013-10-12,10,Pre-Teen,Chula Vista,California
+974,Mark,Torres,M,2018-01-25,6,Junior,Shinglehouse,Pennsylvania
+208,Mary,Nelson,F,2012-10-29,11,Pre-Teen,Guadalupita,New Mexico
+209,Mary,Patterson,F,2021-10-03,2,Baby,Covington,Georgia
+227,Mary,Ward,F,2021-04-12,3,Baby,Grand Ridge,Florida
+294,Mary,Coleman,F,2014-03-01,10,Pre-Teen,Browning,Illinois
+630,Mary,Powell,F,2015-03-13,9,Pre-Teen,Spencerville,Oklahoma
+674,Mary,King,F,2018-04-16,6,Junior,Woolstock,Iowa
+752,Mary,James,F,2022-10-12,1,Baby,San Francisco,California
+771,Mary,Stewart,F,2020-05-12,4,Junior,Bovey,Minnesota
+851,Mary,Garcia,F,2012-11-08,11,Pre-Teen,Ola,Idaho
+176,Mateo,Powell,M,2018-03-29,6,Junior,Denver,Colorado
+460,Mateo,Cooper,M,2022-09-16,1,Baby,Plymouth,Massachusetts
+475,Mateo,Sanchez,M,2015-07-16,8,Pre-Teen,Marshall,Virginia
+781,Mateo,Walker,M,2010-10-02,13,Teen and Older,Saint Petersburg,Pennsylvania
+840,Mateo,Miller,M,2019-12-29,4,Junior,Cedar Lake,Indiana
+40,Matthew,Watson,M,2015-06-09,8,Pre-Teen,Bartlett,New Hampshire
+212,Matthew,Ward,M,2024-03-26,0,Baby,Wichita,Kansas
+250,Matthew,Edwards,M,2013-10-16,10,Pre-Teen,West Lafayette,Ohio
+315,Matthew,Williams,M,2021-07-17,2,Baby,Lewisboro,New York
+352,Matthew,Garcia,M,2021-05-26,3,Baby,Winterset,Iowa
+645,Matthew,Turner,M,2011-08-27,12,Pre-Teen,Canaan,New Hampshire
+894,Matthew,Hill,M,2012-10-16,11,Pre-Teen,Haslett,Michigan
+266,Megan,Russell,F,2010-06-30,13,Teen and Older,Orlando,Florida
+708,Megan,Hall,F,2020-11-30,3,Baby,Caldwell,New Jersey
+841,Megan,Simmons,F,2016-12-05,7,Junior,Pawcatuck,Connecticut
+978,Megan,Turner,F,2010-01-18,14,Teen and Older,Gaithersburg,Maryland
+101,Melissa,Ramirez,F,2015-09-10,8,Pre-Teen,Yoncalla,Oregon
+213,Melissa,Evans,F,2016-10-17,7,Junior,Pine Apple,Alabama
+268,Melissa,Reed,F,2020-09-08,3,Baby,Encino,Texas
+478,Melissa,Griffin,F,2021-03-22,3,Baby,Apopka,Florida
+479,Melissa,Kelly,F,2020-05-18,4,Junior,Orient,Ohio
+483,Melissa,Bennett,F,2023-07-15,0,Baby,Ranchos De Taos,New Mexico
+584,Melissa,Bailey,F,2010-11-21,13,Teen and Older,Federal Way,Washington
+615,Melissa,Johnson,F,2019-06-20,4,Junior,Hartford,Vermont
+655,Melissa,White,F,2023-04-26,1,Baby,Washington,District of Columbia
+952,Melissa,Wright,F,2019-09-30,4,Junior,East Hartland,Connecticut
+20,Michael,Moore,M,2021-02-27,3,Baby,San Antonio,Texas
+50,Michael,Flores,M,2018-08-13,5,Junior,Branchport,New York
+66,Michael,Wilson,M,2018-04-24,6,Junior,Holtville,California
+81,Michael,Hall,M,2021-06-13,2,Baby,Califon,New Jersey
+127,Michael,Allen,M,2011-02-20,13,Teen and Older,Carbon Hill,Ohio
+322,Michael,Phillips,M,2011-01-12,13,Teen and Older,Kent,New York
+337,Michael,Perry,M,2015-04-28,9,Pre-Teen,Kansas City,Missouri
+406,Michael,Flores,M,2013-04-23,11,Pre-Teen,Clemson,South Carolina
+631,Michael,Gonzales,M,2023-02-16,1,Baby,Grand Rapids,Michigan
+664,Michael,Roberts,M,2017-10-18,6,Junior,Phoenix,Arizona
+692,Michael,Murphy,M,2022-07-23,1,Baby,Concord,Illinois
+835,Michael,Clark,M,2022-10-10,1,Baby,Colburn,Idaho
+987,Michael,Perry,M,2024-03-19,0,Baby,Hydaburg,Alaska
+181,Michelle,Hill,F,2012-04-17,12,Pre-Teen,Meldrim,Georgia
+195,Michelle,Coleman,F,2013-01-15,11,Pre-Teen,Morrilton,Arkansas
+201,Michelle,Bell,F,2022-06-11,1,Baby,Painted Post,New York
+312,Michelle,Robinson,F,2010-09-20,13,Teen and Older,Montrose,Colorado
+340,Michelle,Hall,F,2013-10-14,10,Pre-Teen,Oakley,Michigan
+431,Michelle,Alexander,F,2019-06-14,4,Junior,Otis,Massachusetts
+463,Michelle,Baker,F,2020-04-26,4,Junior,Lesterville,Missouri
+768,Michelle,Brooks,F,2018-11-04,5,Junior,Grover,Wyoming
+916,Michelle,Alexander,F,2016-04-28,8,Pre-Teen,Hughesville,Maryland
+94,Natalie,Morgan,F,2022-07-07,1,Baby,Jamestown,Rhode Island
+228,Natalie,Price,F,2013-09-02,10,Pre-Teen,Whittington,Illinois
+407,Natalie,White,F,2024-01-17,0,Baby,Hallock,Minnesota
+458,Natalie,Kelly,F,2010-12-29,13,Teen and Older,Jacumba,California
+550,Natalie,Phillips,F,2022-04-20,2,Baby,Salt Lake City,Utah
+571,Natalie,James,F,2021-02-22,3,Baby,Seville,Ohio
+587,Natalie,Washington,F,2020-09-10,3,Baby,Watertown,Massachusetts
+593,Natalie,Wright,F,2010-06-06,13,Teen and Older,Fort Knox,Kentucky
+696,Natalie,Turner,F,2019-07-01,4,Junior,Asheville,North Carolina
+943,Natalie,Bell,F,2011-05-06,13,Teen and Older,Gaithersburg,Maryland
+91,Nathan,Alexander,M,2022-12-18,1,Baby,Sawyerville,Illinois
+150,Nathan,Coleman,M,2012-09-29,11,Pre-Teen,Birmingham,Alabama
+152,Nathan,Thompson,M,2011-08-24,12,Pre-Teen,Rushford,New York
+374,Nathan,Walker,M,2014-03-22,10,Pre-Teen,Hayesville,North Carolina
+427,Nathan,Sanders,M,2022-01-15,2,Baby,Fort Worth,Texas
+548,Nathan,Hernandez,M,2022-08-18,1,Baby,Bloomingdale,New York
+625,Nathan,Hill,M,2017-08-09,6,Junior,Chambers,Arizona
+767,Nathan,Rodriguez,M,2014-03-02,10,Pre-Teen,Penasco,New Mexico
+857,Nathan,Evans,M,2013-04-11,11,Pre-Teen,Villa Park,Illinois
+49,Nicholas,Hayes,M,2013-04-29,11,Pre-Teen,Lutz,Florida
+324,Nicholas,Foster,M,2020-04-02,4,Junior,Phillipsville,California
+471,Nicholas,Hill,M,2020-03-30,4,Junior,Ashburn,Virginia
+518,Nicholas,Rogers,M,2012-12-28,11,Pre-Teen,Gainesville,Florida
+560,Nicholas,Bailey,M,2011-04-20,13,Teen and Older,Saint Louis,Missouri
+670,Nicholas,Jenkins,M,2012-03-12,12,Pre-Teen,Seale,Alabama
+737,Nicholas,Hughes,M,2023-10-23,0,Baby,Upper Uwchlan,Pennsylvania
+878,Nicholas,Robinson,M,2021-11-25,2,Baby,Smiths Creek,Michigan
+63,Nicole,Brown,F,2010-01-25,14,Teen and Older,Tula,Mississippi
+99,Nicole,Foster,F,2011-11-25,12,Pre-Teen,Old Greenwich,Connecticut
+133,Nicole,Roberts,F,2011-04-16,13,Teen and Older,Seal Beach,California
+172,Nicole,Stewart,F,2013-12-01,10,Pre-Teen,Westfir,Oregon
+175,Nicole,Morgan,F,2018-07-16,5,Junior,Chicago,Illinois
+224,Nicole,Kelly,F,2015-11-17,8,Pre-Teen,Shawnee Mission,Kansas
+507,Nicole,Perez,F,2017-08-02,6,Junior,Hickman,Nebraska
+649,Nicole,Brooks,F,2010-09-19,13,Teen and Older,Dowagiac,Michigan
+727,Nicole,Williams,F,2022-02-09,2,Baby,Hamlin,West Virginia
+905,Nicole,Rivera,F,2010-06-23,13,Teen and Older,Downsville,Wisconsin
+994,Nicole,Carter,F,2018-12-11,5,Junior,Golva,North Dakota
+96,Oliver,James,M,2016-01-18,8,Pre-Teen,Springfield,Illinois
+116,Oliver,Davis,M,2017-05-08,7,Junior,Crystal,Michigan
+194,Oliver,Garcia,M,2015-05-04,9,Pre-Teen,Keokuk,Iowa
+332,Oliver,King,M,2022-11-16,1,Baby,Eugene,Oregon
+372,Oliver,Bailey,M,2013-08-30,10,Pre-Teen,Saint Johns,Ohio
+412,Oliver,Miller,M,2010-02-11,14,Teen and Older,Seattle,Washington
+423,Oliver,Moore,M,2010-09-10,13,Teen and Older,Ridgeway,Virginia
+512,Oliver,Richardson,M,2012-09-01,11,Pre-Teen,Northfield,Massachusetts
+562,Oliver,Hernandez,M,2013-03-13,11,Pre-Teen,Mauckport,Indiana
+640,Oliver,Lee,M,2016-01-19,8,Pre-Teen,Gillette,Wyoming
+739,Oliver,Hall,M,2016-12-12,7,Junior,Cocolalla,Idaho
+825,Oliver,Nelson,M,2010-10-14,13,Teen and Older,Kingston Springs,Tennessee
+15,Olivia,Hill,F,2019-06-06,4,Junior,Fall River Mills,California
+57,Olivia,Barnes,F,2017-12-24,6,Junior,Des Moines,Iowa
+214,Olivia,Campbell,F,2023-03-15,1,Baby,Crab Orchard,Tennessee
+229,Olivia,Kelly,F,2015-12-22,8,Pre-Teen,Anniston,Alabama
+303,Olivia,Cox,F,2014-12-11,9,Pre-Teen,Portland,Maine
+314,Olivia,Hall,F,2020-03-16,4,Junior,Lamar,Colorado
+367,Olivia,Moore,F,2022-09-02,1,Baby,D'Iberville,Mississippi
+424,Olivia,Anderson,F,2020-12-25,3,Baby,Dwight,Illinois
+439,Olivia,Patterson,F,2021-08-31,2,Baby,Savannah,Georgia
+454,Olivia,Turner,F,2022-03-22,2,Baby,Bradford,New Hampshire
+480,Olivia,Russell,F,2015-01-23,9,Pre-Teen,Stamford,Connecticut
+614,Olivia,Morris,F,2019-10-09,4,Junior,Jay,Oklahoma
+689,Olivia,Reed,F,2022-06-16,1,Baby,El Paso,Texas
+751,Olivia,Brooks,F,2019-06-18,4,Junior,Anton,Colorado
+753,Olivia,Davis,F,2013-09-17,10,Pre-Teen,Los Angeles,California
+777,Olivia,Cox,F,2013-09-29,10,Pre-Teen,Neosho,Missouri
+865,Olivia,Parker,F,2013-02-07,11,Pre-Teen,Gainesville,Texas
+22,Owen,Bennett,M,2012-06-28,11,Pre-Teen,Los Fresnos,Texas
+65,Owen,Taylor,M,2024-01-06,0,Baby,Pickrell,Nebraska
+334,Owen,White,M,2015-12-13,8,Pre-Teen,Meriden,Wyoming
+401,Owen,Mitchell,M,2017-06-12,6,Junior,Lublin,Wisconsin
+410,Owen,Alexander,M,2024-04-11,0,Baby,Memphis,Tennessee
+773,Owen,Foster,M,2011-07-23,12,Pre-Teen,Sun City Center,Florida
+944,Owen,Bailey,M,2011-05-08,13,Teen and Older,Wyoming,Minnesota
+948,Owen,Rodriguez,M,2010-11-09,13,Teen and Older,Vendor,Arkansas
+951,Owen,Butler,M,2020-10-11,3,Baby,Etterville,Missouri
+124,Patrick,Simmons,M,2017-11-20,6,Junior,Westminster,Vermont
+300,Patrick,Washington,M,2014-03-07,10,Pre-Teen,Axtell,Texas
+329,Patrick,Parker,M,2016-10-17,7,Junior,Pine Island,New York
+519,Patrick,Morris,M,2012-07-24,11,Pre-Teen,West Lafayette,Ohio
+598,Patrick,Gray,M,2016-03-13,8,Pre-Teen,Pleasantville,New York
+639,Patrick,Ward,M,2018-07-24,5,Junior,Laurel,Mississippi
+676,Patrick,Thompson,M,2018-09-11,5,Junior,Verdugo City,California
+687,Patrick,Brown,M,2012-07-08,11,Pre-Teen,Amarillo,Texas
+34,Rachel,Flores,F,2015-06-09,8,Pre-Teen,Eldorado Springs,Colorado
+232,Rachel,Mitchell,F,2017-05-03,7,Junior,Elderon,Wisconsin
+270,Rachel,Walker,F,2016-11-05,7,Junior,Honolulu,Hawaii
+443,Rachel,Rodriguez,F,2014-04-16,10,Pre-Teen,Quincy,Illinois
+575,Rachel,Russell,F,2020-03-19,4,Junior,Gallina,New Mexico
+577,Rachel,Baker,F,2010-12-06,13,Teen and Older,Washington,District of Columbia
+725,Rachel,Lewis,F,2020-06-25,3,Baby,Sioux Falls,South Dakota
+740,Rachel,Jackson,F,2023-12-31,0,Baby,Kamiah,Idaho
+826,Rachel,Coleman,F,2017-12-24,6,Junior,Unionville,Virginia
+82,Rebecca,Thompson,F,2024-01-05,0,Baby,New Haven,Connecticut
+88,Rebecca,Young,F,2023-10-05,0,Baby,Munford,Tennessee
+117,Rebecca,Green,F,2021-05-03,3,Baby,Hainesport,New Jersey
+557,Rebecca,Hughes,F,2016-01-29,8,Pre-Teen,Benavides,Texas
+618,Rebecca,Wood,F,2015-05-27,9,Pre-Teen,Pharsalia,New York
+653,Rebecca,Perry,F,2021-09-25,2,Baby,Waterford,Virginia
+763,Rebecca,Price,F,2020-03-13,4,Junior,Stockton,California
+869,Rebecca,Moore,F,2010-12-05,13,Teen and Older,Topeka,Kansas
+879,Rebecca,Hughes,F,2019-11-30,4,Junior,Cedaredge,Colorado
+908,Rebecca,Jackson,F,2010-07-04,13,Teen and Older,Seward,Illinois
+248,Richard,Clark,M,2020-03-29,4,Junior,Stonewall,Oklahoma
+267,Richard,Martin,M,2021-11-28,2,Baby,New Port Richey,Florida
+397,Richard,Perry,M,2019-02-10,5,Junior,Hartford,Connecticut
+425,Richard,Torres,M,2012-09-04,11,Pre-Teen,Bula,Texas
+538,Richard,Brown,M,2012-12-10,11,Pre-Teen,New Haven,Connecticut
+570,Richard,Ramirez,M,2017-09-10,6,Junior,Vernon,Colorado
+574,Richard,Foster,M,2018-08-30,5,Junior,Thompsons Station,Tennessee
+590,Richard,Williams,M,2017-12-23,6,Junior,South Thomaston,Maine
+622,Richard,Powell,M,2017-08-27,6,Junior,Chadwicks,New York
+588,Robert,Hernandez,M,2011-07-04,12,Pre-Teen,Oxford,Pennsylvania
+592,Robert,Turner,M,2015-05-18,9,Pre-Teen,Dietrich,Idaho
+611,Robert,Baker,M,2015-11-01,8,Pre-Teen,Stockton,Iowa
+662,Robert,Lee,M,2023-06-08,0,Baby,Piru,California
+5,Ryan,Richardson,M,2015-05-10,9,Pre-Teen,Irvine,California
+178,Ryan,Long,M,2016-01-11,8,Pre-Teen,Arkansas City,Arkansas
+192,Ryan,James,M,2014-10-03,9,Pre-Teen,Ellicott City,Maryland
+242,Ryan,Lopez,M,2021-10-24,2,Baby,Meadowview,Virginia
+289,Ryan,Walker,M,2022-03-30,2,Baby,Yacolt,Washington
+606,Ryan,Diaz,M,2023-12-01,0,Baby,Lynn,Massachusetts
+681,Ryan,Rodriguez,M,2014-03-26,10,Pre-Teen,Middleton,Massachusetts
+772,Ryan,Hill,M,2022-01-07,2,Baby,Linden,New Jersey
+858,Ryan,Powell,M,2016-09-23,7,Junior,Red Level,Alabama
+975,Ryan,Young,M,2015-08-23,8,Pre-Teen,Richmond,Michigan
+226,Samantha,Butler,F,2023-09-03,0,Baby,Fort Dodge,Iowa
+440,Samantha,Roberts,F,2012-09-15,11,Pre-Teen,Eagletown,Oklahoma
+444,Samantha,Washington,F,2017-10-22,6,Junior,Norton,Texas
+646,Samantha,Alexander,F,2022-04-08,2,Baby,Cleveland,Ohio
+702,Samantha,Jones,F,2021-05-21,3,Baby,Bloomington,Illinois
+959,Samantha,Thompson,F,2011-10-15,12,Pre-Teen,Philadelphia,Pennsylvania
+146,Samuel,Collins,M,2011-01-28,13,Teen and Older,Lake,Mississippi
+456,Samuel,Lopez,M,2023-11-27,0,Baby,Hartford,Connecticut
+691,Samuel,Bailey,M,2022-09-29,1,Baby,Howell,Arkansas
+795,Samuel,Rogers,M,2015-02-15,9,Pre-Teen,Dallas,Texas
+151,Sara,Ramirez,F,2017-12-26,6,Junior,Westmoreland City,Pennsylvania
+204,Sara,Johnson,F,2023-09-24,0,Baby,Powellville,Maryland
+257,Sara,Cox,F,2012-08-08,11,Pre-Teen,Plant City,Florida
+261,Sara,Turner,F,2021-12-19,2,Baby,Diamond,Ohio
+448,Sara,Cooper,F,2016-04-24,8,Pre-Teen,Edgar,Wisconsin
+533,Sara,Reed,F,2022-08-18,1,Baby,Clitherall,Minnesota
+720,Sara,Garcia,F,2011-01-27,13,Teen and Older,Allegany,Oregon
+925,Sara,Turner,F,2018-10-07,5,Junior,Wallace,North Carolina
+43,Sarah,Cooper,F,2015-06-19,8,Pre-Teen,Wilmington,Delaware
+623,Sarah,Gonzales,F,2015-01-20,9,Pre-Teen,Nampa,Idaho
+890,Sarah,Parker,F,2021-07-01,2,Baby,Cazenovia,New York
+999,Sarah,Bennett,F,2016-06-18,7,Junior,Linefork,Kentucky
+14,Sean,Hill,M,2021-07-14,2,Baby,Mechanicsville,Virginia
+77,Sean,Bryant,M,2023-11-19,0,Baby,Greenwood,Nebraska
+97,Sean,Washington,M,2020-10-11,3,Baby,Iron Gate,Virginia
+106,Sean,Thomas,M,2010-12-05,13,Teen and Older,Cedar Rapids,Iowa
+271,Sean,Martinez,M,2016-01-20,8,Pre-Teen,Beatrice,Alabama
+370,Sean,Adams,M,2022-09-13,1,Baby,Davenport,Oklahoma
+392,Sean,Turner,M,2016-05-03,8,Pre-Teen,Velma,Oklahoma
+408,Sean,Nelson,M,2017-09-21,6,Junior,Council,North Carolina
+428,Sean,Alexander,M,2016-01-27,8,Pre-Teen,Newcastle,Texas
+462,Sean,Gray,M,2021-10-21,2,Baby,Nashville,Tennessee
+539,Sean,Bryant,M,2023-06-29,0,Baby,Columbia,South Carolina
+540,Sean,Wood,M,2013-08-07,10,Pre-Teen,Broadway,Virginia
+628,Sean,Russell,M,2021-01-15,3,Baby,Bowmanstown,Pennsylvania
+644,Sean,Clark,M,2018-07-14,5,Junior,Tyro,Kansas
+663,Sean,Sanders,M,2010-11-29,13,Teen and Older,Chelsea,Massachusetts
+812,Sean,Perez,M,2019-04-12,5,Junior,Crowley,Louisiana
+100,Sebastian,Perez,M,2010-12-28,13,Teen and Older,Jonben,West Virginia
+137,Sebastian,Alexander,M,2010-09-02,13,Teen and Older,Cutten,California
+140,Sebastian,Edwards,M,2021-05-06,3,Baby,Delta,Iowa
+251,Sebastian,Ramirez,M,2020-07-27,3,Baby,Ola,Idaho
+361,Sebastian,Perry,M,2022-03-12,2,Baby,Monmouth,Oregon
+390,Sebastian,Gonzales,M,2017-04-07,7,Junior,Welches,Oregon
+430,Sebastian,Wood,M,2017-10-06,6,Junior,Birmingham,Alabama
+694,Sebastian,Gonzales,M,2014-10-17,9,Pre-Teen,Lone Grove,Oklahoma
+988,Sebastian,Ramirez,M,2019-03-08,5,Junior,Washington,District of Columbia
+69,Sofia,Coleman,F,2016-04-05,8,Pre-Teen,Washington,District of Columbia
+296,Sofia,Powell,F,2017-06-24,6,Junior,Perham,Maine
+331,Sofia,Washington,F,2016-11-01,7,Junior,Butler,Oklahoma
+704,Sofia,Murphy,F,2015-06-03,9,Pre-Teen,Melrose,Montana
+735,Sofia,Mitchell,F,2020-12-19,3,Baby,Yuma,Arizona
+757,Sofia,Martinez,F,2020-01-07,4,Junior,Innis,Louisiana
+895,Sofia,Murphy,F,2012-11-09,11,Pre-Teen,Calabasas,California
+58,Sophia,Johnson,F,2021-10-15,2,Baby,Spokane,Washington
+79,Sophia,Torres,F,2023-04-19,1,Baby,South Portland,Maine
+253,Sophia,Perry,F,2022-08-01,1,Baby,Coleridge,Nebraska
+260,Sophia,Adams,F,2013-04-13,11,Pre-Teen,Hudson,Iowa
+298,Sophia,Perry,F,2022-09-02,1,Baby,Chicago,Illinois
+360,Sophia,Ross,F,2015-09-03,8,Pre-Teen,Huntington,West Virginia
+474,Sophia,Morris,F,2012-07-19,11,Pre-Teen,Taholah,Washington
+529,Sophia,Perez,F,2010-01-22,14,Teen and Older,Foxboro,Massachusetts
+579,Sophia,Flores,F,2023-07-07,0,Baby,Pine Lake,Georgia
+756,Sophia,Foster,F,2021-07-23,2,Baby,Allerton,Iowa
+804,Sophia,Gray,F,2012-01-25,12,Pre-Teen,Easley,South Carolina
+885,Sophia,Jenkins,F,2021-12-28,2,Baby,Schertz,Texas
+108,Stephanie,Lewis,F,2017-09-16,6,Junior,Brooklyn,New York
+307,Stephanie,Sanders,F,2016-04-02,8,Pre-Teen,Trout Lake,Washington
+441,Stephanie,Washington,F,2021-08-12,2,Baby,San Diego,California
+504,Stephanie,Baker,F,2017-08-15,6,Junior,Brownsville,Vermont
+847,Stephanie,Murphy,F,2010-05-05,14,Teen and Older,Iowa City,Iowa
+907,Stephanie,Martinez,F,2023-10-18,0,Baby,Ballwin,Missouri
+6,Stephen,Turner,M,2013-07-12,10,Pre-Teen,Dansville,New York
+71,Stephen,White,M,2010-11-07,13,Teen and Older,Lake Worth,Florida
+215,Stephen,Turner,M,2012-12-10,11,Pre-Teen,Little Deer Isle,Maine
+220,Stephen,Cox,M,2023-08-26,0,Baby,Ormond Beach,Florida
+368,Stephen,Murphy,M,2023-10-06,0,Baby,Charlottesville,Virginia
+506,Stephen,Cox,M,2021-07-29,2,Baby,Beaver City,Nebraska
+595,Stephen,Richardson,M,2017-07-09,6,Junior,Banner,Wyoming
+634,Stephen,Allen,M,2019-04-21,5,Junior,Asheville,North Carolina
+706,Stephen,King,M,2016-07-25,7,Junior,Prim,Arkansas
+793,Stephen,Bell,M,2011-08-19,12,Pre-Teen,Vermont,Illinois
+871,Stephen,Sanders,M,2011-08-10,12,Pre-Teen,Viola,Wisconsin
+906,Stephen,Bryant,M,2019-01-10,5,Junior,New York,New York
+931,Stephen,Price,M,2011-03-18,13,Teen and Older,Lismore,Minnesota
+24,Steven,Clark,M,2019-01-08,5,Junior,Nabb,Indiana
+129,Steven,Wilson,M,2023-04-14,1,Baby,Amber,Oklahoma
+355,Steven,Howard,M,2011-05-04,13,Teen and Older,Bethesda,Maryland
+391,Steven,Rodriguez,M,2018-02-04,6,Junior,Rothbury,Michigan
+411,Steven,Ward,M,2019-09-08,4,Junior,Berry Creek,California
+476,Steven,Harris,M,2010-08-17,13,Teen and Older,Wilmington,California
+501,Steven,Johnson,M,2016-09-13,7,Junior,Clarington,Pennsylvania
+565,Steven,Foster,M,2023-02-14,1,Baby,Strandburg,South Dakota
+671,Steven,Morris,M,2011-01-04,13,Teen and Older,Montebello,Virginia
+992,Steven,Jackson,M,2015-12-25,8,Pre-Teen,North Star,Ohio
+103,Taylor,Cook,F,2013-02-26,11,Pre-Teen,Miami,Florida
+121,Taylor,Diaz,F,2017-07-31,6,Junior,Weatherford,Texas
+291,Taylor,Allen,F,2023-03-01,1,Baby,Bulverde,Texas
+343,Taylor,Smith,F,2023-07-01,0,Baby,Berrysburg,Pennsylvania
+660,Taylor,Henderson,F,2014-03-14,10,Pre-Teen,Buena Vista,Colorado
+120,Theodore,Adams,M,2021-04-25,3,Baby,Santa Clarita,California
+549,Theodore,Simmons,M,2011-09-14,12,Pre-Teen,Cusseta,Georgia
+873,Theodore,Butler,M,2022-06-06,1,Baby,Sylva,North Carolina
+41,Thomas,Alexander,M,2013-08-12,10,Pre-Teen,Saint Paul,Kansas
+53,Thomas,Morris,M,2011-10-14,12,Pre-Teen,Boca Grande,Florida
+174,Thomas,Butler,M,2022-08-11,1,Baby,Orem,Utah
+301,Thomas,Campbell,M,2022-10-17,1,Baby,Norvelt,Pennsylvania
+318,Thomas,Rogers,M,2022-04-03,2,Baby,Raleigh,North Carolina
+449,Thomas,Ramirez,M,2010-03-29,14,Teen and Older,Lee,Illinois
+675,Thomas,Henderson,M,2010-10-06,13,Teen and Older,New York,New York
+746,Thomas,Thomas,M,2010-11-22,13,Teen and Older,Beaumont,California
+809,Thomas,Jones,M,2011-10-23,12,Pre-Teen,Burlington,North Carolina
+903,Thomas,Jones,M,2023-02-23,1,Baby,Fort Campbell,Kentucky
+264,Tiffany,Taylor,F,2019-07-09,4,Junior,Wittman,Maryland
+344,Tiffany,Hernandez,F,2023-03-19,1,Baby,Gainesboro,Tennessee
+642,Tiffany,Anderson,F,2012-05-02,12,Pre-Teen,Sandyville,West Virginia
+709,Tiffany,Bennett,F,2020-05-28,4,Junior,Amarillo,Texas
+18,Timothy,Bell,M,2017-07-29,6,Junior,Jackson,North Carolina
+39,Timothy,Roberts,M,2017-12-21,6,Junior,Arlington,South Dakota
+421,Timothy,Powell,M,2012-06-10,11,Pre-Teen,Camarillo,California
+796,Timothy,Torres,M,2013-02-06,11,Pre-Teen,Royal Oak,Michigan
+800,Timothy,Griffin,M,2021-04-06,3,Baby,Baltimore,Maryland
+820,Timothy,Carter,M,2017-09-12,6,Junior,Donnelly,Idaho
+837,Timothy,Simmons,M,2023-10-09,0,Baby,Lake McDonald,Montana
+877,Timothy,Scott,M,2011-09-19,12,Pre-Teen,Highlands,New Jersey
+922,Timothy,Mitchell,M,2016-05-26,8,Pre-Teen,East Waterford,Pennsylvania
+56,Tyler,Wright,M,2019-10-16,4,Junior,Des Moines,Iowa
+145,Tyler,Wright,M,2020-03-08,4,Junior,Shepherd,Michigan
+256,Tyler,Martin,M,2011-10-02,12,Pre-Teen,Anaheim,California
+326,Tyler,Allen,M,2018-08-09,5,Junior,Artesia,New Mexico
+345,Tyler,Henderson,M,2017-06-05,7,Junior,Frewsburg,New York
+514,Tyler,Bell,M,2017-11-15,6,Junior,Chesapeake,Virginia
+842,Tyler,Russell,M,2023-07-18,0,Baby,Conshohocken,Pennsylvania
+935,Tyler,Watson,M,2019-01-04,5,Junior,Tabor,Iowa
+9,Victoria,Jenkins,F,2020-05-23,4,Junior,Las Vegas,Nevada
+222,Victoria,Anderson,F,2022-06-04,2,Baby,Langston,Oklahoma
+317,Victoria,Davis,F,2014-09-08,9,Pre-Teen,Detroit,Michigan
+409,Victoria,Gray,F,2011-05-21,13,Teen and Older,Memphis,Tennessee
+464,Victoria,Morgan,F,2014-08-30,9,Pre-Teen,Atlanta,Georgia
+465,Victoria,Cooper,F,2018-05-27,6,Junior,Sebastopol,California
+493,Victoria,Bennett,F,2010-12-25,13,Teen and Older,Eureka Springs,Arkansas
+607,Victoria,Carter,F,2010-08-08,13,Teen and Older,Kenmare,North Dakota
+613,Victoria,Parker,F,2018-04-05,6,Junior,Royal Oak,Maryland
+682,Victoria,Rivera,F,2021-09-12,2,Baby,Marina Del Rey,California
+821,Victoria,Hernandez,F,2012-06-07,11,Pre-Teen,Granville,North Dakota
+824,Victoria,James,F,2017-03-01,7,Junior,San Jose,California
+8,William,Phillips,M,2015-06-10,8,Pre-Teen,Adamsville,Rhode Island
+60,William,Gonzales,M,2012-03-31,12,Pre-Teen,Wallingford,Iowa
+365,William,Brooks,M,2011-12-16,12,Pre-Teen,Elbert,West Virginia
+492,William,Miller,M,2016-04-09,8,Pre-Teen,Silver Spring,Maryland
+661,William,Price,M,2020-06-03,4,Junior,Fresno,California
+730,William,Jones,M,2011-04-09,13,Teen and Older,Drytown,California
+748,William,Rivera,M,2016-09-22,7,Junior,Lake Worth,Florida
+819,William,Garcia,M,2019-06-23,4,Junior,Union,Illinois
+98,Zachary,Thompson,M,2011-09-28,12,Pre-Teen,Amsterdam,Missouri
+196,Zachary,Parker,M,2013-10-06,10,Pre-Teen,Great Falls,Montana
+377,Zachary,Davis,M,2024-01-26,0,Baby,Savery,Wyoming
+402,Zachary,Brown,M,2011-06-30,12,Pre-Teen,Gillett,Texas
+552,Zachary,Hernandez,M,2014-03-10,10,Pre-Teen,Redding Center,Connecticut
+780,Zachary,Morris,M,2021-10-10,2,Baby,Milford,Kansas
+953,Zachary,Diaz,M,2014-09-08,9,Pre-Teen,Plano,Iowa
